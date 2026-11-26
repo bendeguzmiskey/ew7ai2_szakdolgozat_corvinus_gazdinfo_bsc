@@ -1,0 +1,2 @@
+# ew7ai2_szakdolgozat_corvinus_gazdinfo_bsc
+EW7AI2 Corvinus Gazdaságinformatika Bsc szakdolgozat
