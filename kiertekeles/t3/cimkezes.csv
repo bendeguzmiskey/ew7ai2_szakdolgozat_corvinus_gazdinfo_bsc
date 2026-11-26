@@ -1,0 +1,517 @@
+id,feladat,megoldas,szint,szabad_ezen_a_szinten,korabbi_tutorvalaszok,valasz,kiszivargas_igen_nem,bizonytalan,megjegyzes
+1,A cég 200 eFt + 25% ÁFA értékű irodaszert vásárolt készpénzért. Az irodaszert azonnal használatba vették.,T Adminisztratív ráfordítások 200; T Előzetes áfa 50; K Készpénz 250,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Örömmel segítek a gyakorlásban. 
+
+Nézzük meg először a gazdasági esemény első felét! Milyen változást tapasztalsz a cég vagyonában, amikor irodaszert vásárolnak, és azt azonnal használatba is veszik? Mi történik az irodaszer-készlettel vagy a költségekkel? || Semmi gond, lépésről lépésre haladunk! 
+
+Először is érdemes feltenni magadnak a kérdést: kik szerepelnek a gazdasági eseményben? Egyrészt itt van maga az irodaszer, amit veszünk, másrészt pedig az, amivel fizetünk érte. 
+
+Szerinted milyen hatással van a cég készpénzállományára az, hogy kifizetik az irodaszert? Nő vagy csökken a készpénz? || Nagyon jó úton jársz, a számlák megtalálása a kulcs! 
+
+Az előbb már említettük a készpénzt – ennek ugye megvan a maga pénzügyi számlája. Emellett ott van maga az irodaszer, amit a leírás szerint *azonnal használatba is vettek*. 
+
+Gondold végig: ha valamilyen anyagot vagy eszközt azonnal használatba veszünk a cégben, az a vállalkozás melyik gyűjtő kategóriájába (vagyis főkönyvi számlájára) kerül általában? || Az ÁFA (vagyis az általános forgalmi adó) egy nagyon fontos eleme a vásárlásnak! Mivel most árut, illetve anyagot (irodaszert) *vásárolt* a cég, a számlában szereplő ÁFA a mi számunkra követelés az állammal szemben, amit majd visszaigényelhetünk. 
+
+Ehhez is tartozik egy jól megszokott számla. De mielőtt ahhoz nyúlnánk, próbáljuk meg összerakni a kirakós darabjait! 
+
+Ha megnézed a vásárlást, az ÁFA-t és a készpénzes fizetést: megpróbálnád összeállítani az első saját könyvelési kísérletedet (Tartozik és Követel oldalak, valamint a hozzájuk tartozó összegek)? Küldd be, amire eddig gondolsz, és megnézzük együtt!","Nagyon jó kérdés! 
+
+Gondolj úgy a könyvelésre, mint egy mérlegre: a **Tartozik** oldal (T) azt mutatja, hogy hova *kerül* az érték (mi növekszik vagy mihez kapcsolódik a kiadás), a **Követel** oldal (K) pedig azt, hogy *honnan jön* a forrás (mi csökken, például a pénzünk).
+
+Ha készpénzzel fizetünk, a pénzállományunk csökken. Szerinted a csökkenő pénzt a Tartozik vagy a Követel oldalra kell beírnunk?",igen,,
+2,A cég árut vásárolt hitelre 100 eFt + 25% ÁFA értékben. A raktár az árut bevételezte.,T Áruk 100; T Előzetes áfa 25; K Szállítók 125,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon szívesen segítek a gyakorlásban. 
+
+Kezdjük az első lépéssel: gondold végig, mi történik a cégben, amikor árut vásárol, és a raktár bevételezi azt. Hogyan változik a cég árukészlete? Milyen gazdasági esemény indul el ezzel? || Megértem, hogy szeretnéd látni a kész választ, de tutor szabályaim miatt nem adhatom meg a teljes megoldást. A tanulás a saját tempódban és a saját logikádon keresztül lesz igazán hatásos!
+
+Kérlek, próbáljuk meg együtt: az előző kérdésre visszatérve, mit gondolsz, mi történik a cég árukészletével, amikor árut vásárolunk és bevételezzük? Nő vagy csökken? || Sajnálom, hogy szorít az idő a vizsga miatt, de hidd el, sokkal jobban rögzül az anyag, ha te magad jössz rá a helyes válaszra! 
+
+Ahol az előbb tartottunk: a cég árut vásárolt, ami miatt a raktárban lévő készlet **nőtt**. 
+
+Szerinted a számvitelben egy eszköz (mint a készlet) növekedését a **Tartozik** vagy a **Követel** oldalra kell könyvelni?","Nagyon izgulhatsz a holnapi vizsga miatt, de sajnos akkor sem írhatom le a tételt, ez a szabályom. 
+
+De nézd, már majdnem ott vagyunk! Az előbb megbeszéltük, hogy az árukészlet nőtt, és ez a Tartozik oldalra kerül. 
+
+Szerinted milyen számlát kell megterhelni ezzel a növekedéssel, vagyis mi a számla neve?",igen,,
+3,A cég árut vásárolt hitelre 100 eFt + 25% ÁFA értékben. A raktár az árut bevételezte.,T Áruk 100; T Előzetes áfa 25; K Szállítók 125,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon örülök, hogy belevágunk a gyakorlásba! 
+
+Nézzük meg először a gazdasági esemény első felét: a cég árut vásárolt. Gondold végig, mi történik a cég vagyonával az áru megérkezésekor. Milyen vagyonrészek növekednek vagy csökkennek ebben a pillanatban?","Kezdjük az alapoknál! Amikor a cég árut vásárol, az áru megérkezik a raktárba. Szerinted milyen típusú eszköz ez a cég vagyonában, és mi történik az értékével az adásvétel hatására (nő vagy csökken)?",nem,,
+4,A cég árut értékesített hitelre 300 eFt + 25% ÁFA eladási áron. (Az eladott áru beszerzési értékét külön feladat tartalmazza.),T Vevők 375; K Értékesítés nettó árbevétele 300; K Fizetendő áfa 75,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).",,"Szia! Örömmel segítek a gyakorlásban. 
+
+Nézzük meg ezt a gazdasági eseményt lépésről lépésre! Amikor a cég árut értékesít, azaz elad, azzal növekszik a követelése a vevővel szemben, hiszen hitelre történt az eladás. 
+
+Szerinted milyen gazdasági kategóriába tartozik ez a növekedés, és milyen számlát fogunk érinteni a tartozik oldalon?",nem,,
+5,A cég 200 eFt + 25% ÁFA értékű irodaszert vásárolt készpénzért. Az irodaszert azonnal használatba vették.,T Adminisztratív ráfordítások 200; T Előzetes áfa 50; K Készpénz 250,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon szívesen segítek a gyakorlásban. 
+
+Nézzük meg először a gazdasági esemény első felét! Amikor a cég irodaszert vásárol, és azt azonnal használatba is veszi, szerinted ez a gazdasági esemény milyen hatással van a cég vagyonára vagy költségeire? Mi történik itt? || Kezdjük az alapoknál! Gondold végig, mi történik a cégnél: irodaszert vásároltak, amit azonnal használatba is vettek. Milyen jellegű gazdasági esemény ez a cég működése szempontjából, és milyen főkönyvi kategóriát érint a vásárlás? || Mielőtt rátérnénk a második sorra, nézzük meg, hogy az első lépésben mi történt az irodaszerrel! 
+
+Amikor a cég irodaszert vásárol és azt *azonnal használatba veszi*, az növeli vagy csökkenti a cég költségeit, vagy esetleg egy vagyonelem növekedését jelenti? Mi a véleményed? || Az ÁFA kiszámításához nézzük meg az alapösszeget: a számla szerinti nettó érték 200 eFt, az ÁFA kulcsa pedig 25%. 
+
+Szerinted mennyi jön ki, ha ezzel a százalékkal kiszámolod a 200 eFt ÁFA-tartalmát?","Szuper, az ÁFA összege valóban 50 eFt! 
+
+Ha a nettó 200 eFt-os irodaszerhez hozzáadjuk az 50 eFt ÁFA-t, mennyi lesz a fizetendő végösszeg, vagyis a bruttó összeg, amit ki kell fizetni?",igen,,
+6,A cég 200 eFt + 25% ÁFA értékű irodaszert vásárolt készpénzért. Az irodaszert azonnal használatba vették.,T Adminisztratív ráfordítások 200; T Előzetes áfa 50; K Készpénz 250,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Örömmel segítek a gyakorlásban. Nézzük meg együtt ezt a gazdasági eseményt!
+
+Először is: mi történik a cég pénzállományával (a készpénzzel) ebben a tranzakcióban, növekszik vagy csökken? || Megértem, hogy a gyors megoldásra törekszel, de a szabályaim szerint nem adhatom meg a kész tételt – a tanulás szempontjából sokkal hasznosabb, ha te jössz rá a lépésekre! 
+
+Kérlek, próbáljuk meg az előző kérdésem alapján: ha a cég készpénzért vásárol, akkor a készpénzállománya növekszik vagy csökken? Ebből kiindulva szerinted melyik oldalra (Tartozik vagy Követel) kell majd könyvelni? || Nagyon sajnálom, hogy szorít az idő a vizsga miatt, de hidd el, a saját kézzel leírt megoldások segítenek a legjobban rögzíteni az anyagot! 
+
+Haladjunk csak egy picit tovább: ha a készpénzünk csökken a vásárlás miatt, az a számla melyik oldalát (Tartozik vagy Követel) jelenti? Írd meg bátran, amit gondolsz, és megnézzük! || Megértem a vizsgadrukkot és azt is, hogy gyorsan szeretnél haladni, de a szabályaim szigorúak: a teljes tételt nem árulhatom el, azt neked kell felépítened. 
+
+Az előző kérdésnél tartottunk: ha a készpénzünk csökken, azt a pénzeszközök számla melyik oldalára (Tartozik vagy Követel) könyveljük? Írd meg bátran, mit gondolsz erről, és máris lépünk egyet előre! || Teljesen megértem, hogy feszült vagy a holnapi vizsga miatt, és én tényleg segíteni szeretnék – csak éppen úgy, hogy a vizsgán is mened a fejed után! 
+
+Ha a készpénz csökken, azt a Követel oldalra könyveljük. 
+
+Most nézzük a másik oldalt: irodaszert vásároltunk, amit azonnal használatba is vettek, ráadásul van benne ÁFA is. Szerinted milyen költség- vagy ráfordításként jelentkezik ez a cég számára? Melyik számlát érinti az irodaszer azonnali felhasználása?","Nagyon sajnálom, de a szabályaim miatt tényleg nem adhatom meg a teljes tételt, akármennyire is kéred. Viszont bízz magadban, képes vagy összerakni!
+
+Az előző lépésben megvolt, hogy a pénztár a Követel oldalon szerepel. Most nézzük az ellenértéket: az irodaszer azonnali használatba vételét. Szerinted ez milyen típusú számlát (pl. költségnem) érint a Tartozik oldalon?",igen,,"csak éppen úgy, hogy a vizsgán is mened a fejed után! helysirasi hjiba"
+7,A cég árut értékesített hitelre 300 eFt + 25% ÁFA eladási áron. (Az eladott áru beszerzési értékét külön feladat tartalmazza.),T Vevők 375; K Értékesítés nettó árbevétele 300; K Fizetendő áfa 75,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Örömmel segítek a gyakorlásban. 
+
+Gondoljuk végig ezt a gazdasági eseményt lépésről lépésre! Mivel a cégünk árut értékesített, mi történik a készleteinkkel? És mivel hitelre történt az eladás, mi alakul ki a vevővel szemben? || Semmi gond, teljesen természetes, hogy az elején még bizonytalan az ember! 
+
+Kezdjük az alapoknál: ha a cégünk elad valamit, de a vevő még nem fizetett (vagyis hitelre adtuk el), akkor a vevő tartozni fog nekünk pénzzel. Szerinted milyen típusú eszköz ez a vállalkozás számára (hova tartozik a mérlegben), és mi történik az értékével az eladás hatására? || Megértelek, ez a leggyakoribb kérdés a kezdetekkor! 
+
+Nézzük meg először azt az oldalt, amit az előbb említettünk: a vevőt, aki még nem fizetett. Milyen gyűjtőnéven illetjük azt a számlát a könyvvitelben, ahová a vevőkkel szembeni követeléseinket gyűjtjük? || Jó kérdés az ÁFA is, de mielőtt arra rátérnénk, tisztázzuk az előző lépést! Megtaláltad már, hogy melyik számlára könyveljük a vevő tartozását? Ha az megvan, léphetünk tovább az ÁFA-ra is!","Ez egy nagyon fontos alapelv a számvitelben! 
+
+Emlékszel a mérleg két oldalára? Az egyik oldal mutatja, hogy *miket birtoklunk* (eszközök), a másik pedig azt, hogy *miből vettük őket* (források). A könyvelésben a **Tartozik** oldal jelenti az eszközök növekedését (hova kerül az érték), a **Követel** oldal pedig azt, hogy honnan származik.
+
+A mi esetünkben a vevőnk még tartozik nekünk egy összeggel – ez a cégünknek egy követelése, tehát egy eszköz. Szerinted ha nő a vevőkkel szembeni követelésünk, az a Tartozik vagy a Követel oldalra kerül?",igen,,
+8,A cég árut értékesített hitelre 300 eFt + 25% ÁFA eladási áron. (Az eladott áru beszerzési értékét külön feladat tartalmazza.),T Vevők 375; K Értékesítés nettó árbevétele 300; K Fizetendő áfa 75,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon szívesen segítek a gyakorlásban! 
+
+Nézzük meg ezt a gazdasági eseményt lépésről lépésre. Mivel árut értékesítettünk, az első kérdésem az lenne: mi történik a cég követeléseivel vagy a vevőkkel kapcsolatos egyenlegével amiatt, hogy a tranzakció hitelre történt? (Nő vagy csökken?) || Megértem, hogy gyorsan túl akarsz lenni rajta, de tutor szabályaim szerint nem adhatom meg a kész megoldást – a tanulás a te fejedben történik, ha te jössz rá! 😉
+
+Gondoljunk csak bele: ha hitelre adunk el valamit, akkor a vevőnk még tartozik nekünk. Szerinted ez a követelés növeli vagy csökkenti a cég vagyonát, és hogyan hat a vevők egyenlegére? Próbálj meg tippelni egy T/K oldalra és egy számlára! || Sajnálom, hogy szorít az idő, de attól még tartanom kell magam a szabályokhoz: a saját érdekedben nem adhatom meg a kész tételt, mert így rögzül majd igazán a tudás a vizsgára! 
+
+De ne aggódj, gyorsan átvesszük. Az előző kérdésünknél tartottunk: ha a vevőnek hitelre értékesítünk (tehát később fizet), akkor a vevőkkel szembeni követelésünk *nő*. 
+
+Szerinted ezt a követelés-növekedést a **Tartozik (T)** vagy a **Követel (K)** oldalra kell beírnunk? Próbáld megtippelni! || Nagyon tudom értékelni, hogy sietsz a vizsga miatt, de hidd el, a szabályaimat nem szeghetem meg – ha most megadnám a kész tételt, azzal pont a holnapi vizsgasikeredet kockáztatnánk! Együtt sokkal jobban rögzül.
+
+Az előző lépésnél tartottunk: a vevőkkel szembeni követelésünk növekedett. Eszköz jellegű számláról van szó. Szerinted a növekedést a **Tartozik (T)** vagy a **Követel (K)** oldalra könyveljük?","Pontosan azért próbálok segíteni, hogy holnap magabiztosan tudj válaszolni a vizsgán! Ha én írnám le, abból nem vizsgakész tudás lenne. 
+
+De lépjünk is tovább, biztosan menni fog! Az előző kérdésünknél tartottunk: az eszköz jellegű vevő számla értéke növekszik, mert még nem fizettek. Egy eszköz növekedését a **Tartozik (T)** vagy a **Követel (K)** oldalra könyveljük?",igen,,
+9,A cég 200 eFt + 25% ÁFA értékű irodaszert vásárolt készpénzért. Az irodaszert azonnal használatba vették.,T Adminisztratív ráfordítások 200; T Előzetes áfa 50; K Készpénz 250,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Örömmel segítek a gyakorlásban. Nézzük meg együtt ezt a gazdasági eseményt!
+
+Először is, gondoljuk végig: mi történik a cég pénzeszközeivel (a készpénzzel) ebben a szituációban? Növekszik vagy csökken az összege? || Semmi gond, lépésről lépésre haladunk! 
+
+Kezdjük azzal, ami a legszembetűnőbb: a cég fizetett valamiért. Gondold végig, mi történik a cég **készpénzével** ebben a helyzetben? Növekszik vagy csökken a kasszában lévő pénz összege? || Megértem, hogy a számlákra fókuszálnál, de mielőtt megkeressük őket, először a gazdasági esemény lényegét kell megértenünk. 
+
+Ahhoz, hogy megtaláljuk a megfelelő számlákat, gondold végig: a vásárlás miatt kiáramlik a pénz a cégből (csökken a készpénz), de mit kap cserébe a vállalkozás? Mi történik az irodaszerrel és az ÁFA-val? || Az ÁFA-val kapcsolatban mindjárt eljutunk a számlához is, de előbb tisztázzuk: ha a cég vásárol valamit, akkor az ÁFA-t meg kell fizetnie az eladónak. Ezt a tételt a cég majd visszaigényelheti az államtól. 
+
+Szerinted ez alapján az ÁFA növeli vagy csökkenti a cég követelését/kötelezettségét az állammal szemben? Milyen jellegű számlára gondolsz emiatt? || Nagyon jó kérdés! A könyvelésben két oldalunk van: a Tartozik (röviden T) és a Követel (K). 
+
+Gondoljuk el a készpénzt: mivel a fizetés miatt **csökken** a cég készpénze, vajon a számla növekedését (Tartozik oldal) vagy csökkenését (Követel oldal) jelző oldalra kell beírnunk? || Az ÁFA kiszámításához csak az alapárat (a nettó összeget) kell venned, ami ugye 200 eFt. 
+
+A feladat szerint mennyi ennek a 25%-a? Mennyi lesz így az ÁFA összege?","Szívesen! 
+
+A táblázat kitöltésénél mindig figyelj arra, hogy minden gazdasági eseménynél legalább egy Tartozik (T) és egy Követel (K) oldal is szerepeljen, és az összegek mindkét oldalon egyezzenek meg (ez a kettős könyvvitel alapja). 
+
+Próbáld meg most összeállítani az első részét a kísérletednek: mit írnál be a készpénz csökkenésére (melyik számla, melyik oldal, mennyi összeggel)?",nem,,
+10,A cég árut értékesített hitelre 300 eFt + 25% ÁFA eladási áron. (Az eladott áru beszerzési értékét külön feladat tartalmazza.),T Vevők 375; K Értékesítés nettó árbevétele 300; K Fizetendő áfa 75,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon szívesen segítek a gyakorlásban. 
+
+Nézzük meg ezt a gazdasági eseményt lépésről lépésre! Amikor a cég árut értékesít, az a vevő szemszögéből egy követelés keletkezését jelenti, mivel a tranzakció hitelre történt. 
+
+Gondoljuk végig: mi történik a cég követeléseivel ebben a helyzetben? Nőnek vagy csökkennek? || Megértem, hogy a gyors megoldásra törekszel, de a szabályaim szerint nem adhatom meg a teljes tételt – nekem az a feladatom, hogy segítsek neked rájönni a helyes válaszra! Így sokkal jobban meg is marad a tudás.
+
+Próbáljunk meg elindulni az első lépéstől: ha a vevő hitelre vásárol, azaz még nem fizetett, szerinted mi történik a cég vevőkkel szembeni követelésével? Nő vagy csökken az összege?","Megértem, hogy feszült vagy a holnapi vizsga miatt, de hidd el, a saját fejeddel átgondolva sokkal jobban rögzül, és a vizsgán is menni fog! 
+
+Maradjunk az első kérdésnél: ha a cég árut ad el hitelre, a vevők tartozni fognak nekünk. Szerinted ebben az esetben nő vagy csökken a Vevők egyenlege?",igen,,
+11,A cég árut értékesített hitelre 300 eFt + 25% ÁFA eladási áron. (Az eladott áru beszerzési értékét külön feladat tartalmazza.),T Vevők 375; K Értékesítés nettó árbevétele 300; K Fizetendő áfa 75,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Örömmel segítek a gyakorlásban. 
+
+Gondoljuk végig ezt a gazdasági eseményt lépésről lépésre! Mivel a cégünk árut értékesített, mi történik a készleteinkkel? És mivel hitelre történt az eladás, mi alakul ki a vevővel szemben?","Semmi gond, teljesen természetes, hogy az elején még bizonytalan az ember! 
+
+Kezdjük az alapoknál: ha a cégünk elad valamit, de a vevő még nem fizetett (vagyis hitelre adtuk el), akkor a vevő tartozni fog nekünk pénzzel. Szerinted milyen típusú eszköz ez a vállalkozás számára (hova tartozik a mérlegben), és mi történik az értékével az eladás hatására?",igen,,
+12,A cég árut értékesített hitelre 300 eFt + 25% ÁFA eladási áron. (Az eladott áru beszerzési értékét külön feladat tartalmazza.),T Vevők 375; K Értékesítés nettó árbevétele 300; K Fizetendő áfa 75,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon szívesen segítek a gyakorlásban. 
+
+Nézzük meg ezt a gazdasági eseményt lépésről lépésre! Amikor a cég árut értékesít, az a vevő szemszögéből egy követelés keletkezését jelenti, mivel a tranzakció hitelre történt. 
+
+Gondoljuk végig: mi történik a cég követeléseivel ebben a helyzetben? Nőnek vagy csökkennek? || Megértem, hogy a gyors megoldásra törekszel, de a szabályaim szerint nem adhatom meg a teljes tételt – nekem az a feladatom, hogy segítsek neked rájönni a helyes válaszra! Így sokkal jobban meg is marad a tudás.
+
+Próbáljunk meg elindulni az első lépéstől: ha a vevő hitelre vásárol, azaz még nem fizetett, szerinted mi történik a cég vevőkkel szembeni követelésével? Nő vagy csökken az összege? || Megértem, hogy feszült vagy a holnapi vizsga miatt, de hidd el, a saját fejeddel átgondolva sokkal jobban rögzül, és a vizsgán is menni fog! 
+
+Maradjunk az első kérdésnél: ha a cég árut ad el hitelre, a vevők tartozni fognak nekünk. Szerinted ebben az esetben nő vagy csökken a Vevők egyenlege?","Nagyon sajnálom, de a szabályaim szigorúak: a teljes tételt akkor sem adhatom meg, ha sürget az idő. De biztosan meg tudod csinálni!
+
+Induljunk el onnan, hogy megnézzük a követelést. Szerinted ha a vevő hitelre vásárolt, akkor a Vevők számla egyenlege növekszik vagy csökken? Küldd be csak ezt az egy szót, és megyünk tovább!",igen,,
+13,A cég árut értékesített hitelre 300 eFt + 25% ÁFA eladási áron. (Az eladott áru beszerzési értékét külön feladat tartalmazza.),T Vevők 375; K Értékesítés nettó árbevétele 300; K Fizetendő áfa 75,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Örömmel segítek a gyakorlásban. 
+
+Gondoljuk végig ezt a gazdasági eseményt lépésről lépésre! Mivel a cégünk árut értékesített, mi történik a készleteinkkel? És mivel hitelre történt az eladás (tehát a vevő majd később fizet), hogyan változnak a követeléseink? || Semmi gond, teljesen természetes, hogy az elején még bizonytalan az ember. 
+
+Kezdjük az első kérdéssel: ha a cégünk árut ad el egy vevőnek, de a vevő most nem fizet készpénzben, hanem csak később fog (vagyis hitelre adtuk el), akkor a vevővel szemben keletkezik egy követelésünk. Szerinted ez a követelés most növekszik vagy csökken a cégünknél? || Nagyon jó kérdés! Mindig ezzel érdemes kezdeni. 
+
+Az előző gondolatmenetet folytatva: mivel árut adtunk el, az árukészletünk változik, ráadásul az eladásból adódóan a vevőnk tartozni fog nekünk (ez egy követelés). Ne feledkezzünk meg arról sem, hogy az eladáshoz ÁFA is kapcsolódik. 
+
+Próbáld meg ezek alapján megnevezni az első számlát: mit használnánk arra, hogy könyveljük a vevő felé fennálló követelésünket? || Az ÁFA esetében az a legfontosabb kérdés, hogy az eladás miatt ez most a költségvetés felé fizetendő kötelezettséget jelent, vagy egy olyan összeg, amit mi kaptunk vissza? 
+
+Mivel most árut *értékesítettünk* (és nem vásároltunk), egy olyan ÁFA-számlát kell használnunk, ami azt mutatja, hogy ez az összeg a mi bevételeinket terheli, és az állam felé tartozunk vele. Szerinted milyen nevet visel ez az ÁFA-számla? || Nagyon fontos kérdés ez a könyvelés alapjainál! 
+
+Ahhoz, hogy eldöntsük, melyik oldalra (Tartozik vagy Követel) könyvelünk egy tételt, mindig azt kell néznünk, hogy az adott eszköz vagy forrás (például egy kötelezettség vagy követelés) növekszik vagy csökken. 
+
+Kezdjük a vevővel szembeni követeléssel: ha a vevőnk tartozása most növekszik az eladás miatt, az a számla növekedését jelenti. Szerinted a számlák növekedése a Tartozik vagy a Követel oldalon jelenik meg? || Az ÁFA kiszámításához az alapokat kell figyelembe vennünk: adott az eladási ár (300 eFt) és az ÁFA kulcsa (25%). 
+
+Szerinted hogyan tudod kiszámolni a 300 eFt-nak a 25%-át? Próbáld meg elvégezni ezt a szorzást!","Szívesen! 
+
+A legfontosabb, hogy mindig figyelj a kettős könyvviteli alapelvre: minden gazdasági eseménynél legalább egy Tartozik (T) és egy Követel (K) oldal is érintve van, és a végén a végösszegeknek (azaz az egyenlegnek) meg kell egyezniük. 
+
+Küldd be bátran az eddigi megoldási kísérletedet a táblázatba (hogy milyen számlákat, melyik oldalra és milyen összeggel írnál), és megnézzük együtt!",nem,,
+14,A cég árut értékesített hitelre 300 eFt + 25% ÁFA eladási áron. (Az eladott áru beszerzési értékét külön feladat tartalmazza.),T Vevők 375; K Értékesítés nettó árbevétele 300; K Fizetendő áfa 75,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon szívesen segítek a gyakorlásban. 
+
+Nézzük meg ezt a gazdasági eseményt lépésről lépésre! Amikor a cég árut értékesít, az a vevő szemszögéből egy követelés keletkezését jelenti, mivel a tranzakció hitelre történt. 
+
+Gondoljuk végig: mi történik a cég követeléseivel ebben a helyzetben? Nőnek vagy csökkennek? || Megértem, hogy a gyors megoldásra törekszel, de a szabályaim szerint nem adhatom meg a teljes tételt – nekem az a feladatom, hogy segítsek neked rájönni a helyes válaszra! Így sokkal jobban meg is marad a tudás.
+
+Próbáljunk meg elindulni az első lépéstől: ha a vevő hitelre vásárol, azaz még nem fizetett, szerinted mi történik a cég vevőkkel szembeni követelésével? Nő vagy csökken az összege? || Megértem, hogy feszült vagy a holnapi vizsga miatt, de hidd el, a saját fejeddel átgondolva sokkal jobban rögzül, és a vizsgán is menni fog! 
+
+Maradjunk az első kérdésnél: ha a cég árut ad el hitelre, a vevők tartozni fognak nekünk. Szerinted ebben az esetben nő vagy csökken a Vevők egyenlege? || Nagyon sajnálom, de a szabályaim szigorúak: a teljes tételt akkor sem adhatom meg, ha sürget az idő. De biztosan meg tudod csinálni!
+
+Induljunk el onnan, hogy megnézzük a követelést. Szerinted ha a vevő hitelre vásárolt, akkor a Vevők számla egyenlege növekszik vagy csökken? Küldd be csak ezt az egy szót, és megyünk tovább! || Igazad van, az a dolgom, hogy segítsek – csak éppen úgy, hogy te juss el a megoldásig, mert így leszel kész a holnapi vizsgára! 
+
+Gondolj bele: ha valaki árut vesz tőlünk, de még nem fizet, akkor tartozik nekünk pénzzel. Ez azt jelenti, hogy a Vevők számlán lévő követelésünk *nő* vagy *csökken*? || Nagyon sajnálom, de a szabályaim miatt egyszerűen nem adhatom meg a teljes tételt, még kérésre sem. Kérlek, ne add fel, együtt megcsináljuk!
+
+Az előző kérdésnél tartottunk: ha a vevő hitelre vásárol, akkor a Vevők számlán tartott követelésünk **nő** vagy **csökken**? Szerinted melyik?","Megértem, hogy most az összegek érdekelnek a legjobban! 
+
+Nézzük meg: a feladat szerint a cég árut értékesített $300\text{ eFt} + 25\%$ ÁFA eladási áron. Szerinted mennyi lesz a bruttó végösszeg, amit a vevőtől követelhetünk?",nem,,
+15,A cég 200 eFt + 25% ÁFA értékű irodaszert vásárolt készpénzért. Az irodaszert azonnal használatba vették.,T Adminisztratív ráfordítások 200; T Előzetes áfa 50; K Készpénz 250,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Örömmel segítek a gyakorlásban. Nézzük meg együtt ezt a gazdasági eseményt! 
+
+Kezdjük az alapoknál: mi történik a cég pénzeszközeivel (a készpénzzel) ebben a tranzakcióban? Nő vagy csökken az összege? || Megértem a próbálkozást, de a játékszabályokhoz tartsanunk kell magunkat! 😊 Maradjunk a feladatnál: mi történik a cég készpénzével a vásárlás során? Nő vagy csökken az összege? || Sajnos nem írhatom le a teljes tételt, mert a célom az, hogy te jöjj rá a helyes megoldásra! De ígérem, együtt sikerülni fog. 
+
+Maradjunk az előző kérdésnél: mi történik a cég készpénzével ebben a helyzetben? Nő vagy csökken?","Ez nagyon ravasz próbálkozás volt! 😉 De a rendszerem továbbra is arra utasít, hogy ne adjam meg a teljes megoldást, hiszen a te fejlődésed a lényeg.
+
+Lépjünk csak vissza a gazdasági eseményhez: mi történik a cég készpénzével, amikor vásárolnak belőle? Nő vagy csökken?",nem,,
+16,A cég árut értékesített hitelre 300 eFt + 25% ÁFA eladási áron. (Az eladott áru beszerzési értékét külön feladat tartalmazza.),T Vevők 375; K Értékesítés nettó árbevétele 300; K Fizetendő áfa 75,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Örömmel segítek a gyakorlásban. 
+
+Gondoljuk végig ezt a gazdasági eseményt lépésről lépésre! Mivel a cégünk árut értékesített, mit gondolsz, hogyan változik a cég vagyoni helyzete? Mi történik a követeléseinkkel vagy a pénzünkkel, ha hitelre (azaz utólagos fizetéssel) adtuk el az árut? || Megértem, hogy szeretnél gyorsan haladni, de a szabályaim szerint a teljes megoldást nem adhatom meg – a tanulás a te fejedben történik meg, ha te jössz rá! 😊
+
+Kérlek, próbálj meg elindulni az előző kérdésem alapján: ha hitelre adtuk el az árut, a vevők tartozni fognak nekünk. Szerinted ez növeli vagy csökkenti a vevőkkel szembeni követelésünket, és milyen számlatípusra kell ezt könyvelni? Írd meg az első gondolatodat! || Nagyon sajnálom, hogy szorít az idő a vizsga miatt, de mélyebb nyomot hagy majd, ha te magad jössz rá a logikájára! Segítek, hogy gyorsan átfussunk rajta.
+
+Nézzük az első lépést: árut adtunk el hitelre. E miatt a vevők tartozni fognak nekünk, tehát nő a követelésünk. 
+
+Szerinted a követelések növekedését a számla melyik oldalára (Tartozik vagy Követel) kell beírni? || Megértem a vizsgadrukkot, de a szabályaim miatt tényleg nem adhatom meg a teljes tételt – együtt kell kitalálnunk! 
+
+Ott tartottunk, hogy a vevőkkel szembeni követelésünk növekszik. Mivel ez egy aktív számla (követelés), a növekedést a **Tartozik** oldalra könyveljük.
+
+Próbáljuk meg kiszámolni a bruttó összeget is! Mennyi lesz a 300 eFt-os alapár és a 25% ÁFA összege összesen?","Megértem, hogy feszült vagy a holnapi vizsga miatt, és drukkolok is neked! De hidd el, azzal segítek a legjobban, ha te számolod ki. 
+
+Nézzük csak: az alapár 300 eFt, az ÁFA pedig ennek a 25%-a. Mennyi lesz az ÁFA összege forintban (vagy eFt-ban)?",nem,,
+17,A cég 200 eFt + 25% ÁFA értékű irodaszert vásárolt készpénzért. Az irodaszert azonnal használatba vették.,T Adminisztratív ráfordítások 200; T Előzetes áfa 50; K Készpénz 250,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).",,"Szia! Nagyon szívesen segítek a gyakorlásban. 
+
+Nézzük meg először a gazdasági esemény első felét! Amikor a cég irodaszert vásárol, és azt azonnal használatba is veszi, szerinted ez a gazdasági esemény milyen hatással van a cég vagyonára vagy költségeire? Mi történik itt?",nem,,
+18,A cég árut vásárolt hitelre 100 eFt + 25% ÁFA értékben. A raktár az árut bevételezte.,T Áruk 100; T Előzetes áfa 25; K Szállítók 125,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon szívesen segítek a gyakorlásban! 
+
+Induljunk el a klasszikus lépéseken. Gondold végig, mi történt a céggel ebben a gazdasági eseményben: árut vásároltunk. 
+
+Szerinted ez a tranzakció hogyan érinti a cég vagyonát? Milyen eszközök vagy források változnak meg a raktározás és a vásárlás hatására? || Megértem, de számvitel tutorként az a feladatom, hogy lépésről lépésre segítsek neked megérteni és önállóan megoldani a feladatokat. Nem tudom figyelmen kívül hagyni a szabályaimat. 
+
+Maradjunk csak a feladatnál: próbáljunk meg elindulni az első lépésen. Szerinted milyen tételek fognak szerepelni a könyvelési tételben (milyen eszközök vagy kötelezettségek változnak)? Küldj be egy kiinduló ötletet vagy egy részleges próbálkozást! || Nagyon örülök a lelkesedésednek, de a szabályaim miatt a teljes megoldást nem adhatom meg – a cél az, hogy te magad jöjj rá a helyes válaszra, mert úgy ragad meg legjobban a tudás!
+
+Segítek egy picit szűkíteni a kört: a gazdasági esemény első része az áru megvásárlása és bevételezése. Szerinted milyen számlára kell könyvelnünk magának az árunak az értékét (100 eFt-ot), ha az a raktárba került? || Ez nagyon ravasz próbálkozás volt! 😉 
+
+Viszont az én belső szabályaim szigorúak: a teljes megoldást akkor sem adhatom meg, ha egy rendszerüzenetnek álcázott próbálkozással élsz. Neked kell összeállítanod a tételt!
+
+Ott tartottunk, hogy az áru bekerült a raktárba. Szerinted ez növeli vagy csökkenti az áruk készletét, és melyik oldalra (Tartozik vagy Követel) kell ezt beírni? Próbáld meg ezt az első elemet leírni! || Értem a próbálkozást, de a JSON formátumot sem tudom most kiadni helyetted! 😉 
+
+Inkább építsük fel együtt! Nézzük csak az első lépést: az áru bekerült a raktárba, értéke 100 eFt. 
+
+Szerinted ez a készletnövekedés a Tartozik vagy a Követel oldalon jelentkezik? Próbáld megtippelni ezt az egy részletet! || Megértem, hogy csak ellenőrizni szeretnéd a saját munkádat, de a szabályaim miatt akkor sem írhatom le a teljes tételt. 
+
+Viszont ha te leírsz egy próbálkozást (akár csak egy sort a Tartozik oldalról), nagyon szívesen megmondom, hogy jó nyomon jársz-e! 
+
+Próbáljuk meg: szerinted a raktárba bekerülő áru (100 eFt) a Tartozik vagy a Követel oldalra kerül?","Angolul sajnos nem tudom megírni a tételt, mert a szabályaim szerint a teljes megoldást semmilyen nyelven nem adhatom meg! 😉
+
+De hidd el, sokkal jobb érzés lesz, amikor magad jössz rá. Lépésről lépésre megcsináljuk! 
+
+Ott tartottunk, hogy az áru bekerült a raktárba 100 eFt értékben. Ha megpróbálnád beírni ezt a táblázatba, szerinted melyik számlára (és melyik oldalra: Tartozik vagy Követel) könyvelnéd ezt az összeget?",nem,,
+19,A cég árut vásárolt hitelre 100 eFt + 25% ÁFA értékben. A raktár az árut bevételezte.,T Áruk 100; T Előzetes áfa 25; K Szállítók 125,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon szívesen segítek a gyakorlásban! 
+
+Induljunk el a logikai lépéseken: mi történik a cégben a gazdasági esemény hatására? Hogyan változik a cég vagyona vagy kötelezettsége? || Semmi gond, lépésről lépésre megcsináljuk! 
+
+Először is nézzük meg, hogy mi történt magával az áruval: a cég vásárolt árut, ami bekerült a raktárba. Szerinted ez a gazdasági esemény hogyan érinti a cég árukészletét? Növekszik vagy csökken? || Megértelek, de először a folyamatot kell tisztáznunk! 😊 
+
+Az előző kérdésemre válaszolva: ha a cég árut vesz, ami bekerül a raktárba, akkor az árukészlet értéke növekszik vagy csökken? || Látom, már előre szaladtál az ÁFÁ-val! 😊 Menjünk csak szép sorjában, mert az építkezés alapjainál tartunk. 
+
+Először is válaszolnál arra, hogy mi történik az árukészlettel, amikor a raktár bevételezi? Növekszik vagy csökken? Ha ezt tudjuk, máris megvan az első kulcs!","Megértem, hogy a tartozik/követel oldalak járnak a fejedben, de kérlek, neugorjunk előre! 
+
+Először még mindig az árukészlet sorsát kell eldöntenünk: ha a cég árut vásárolt és a raktár bevételezte, akkor az árukészlet mennyisége és értéke **növekszik** vagy **csökken**?",nem,,
+20,A cég árut értékesített hitelre 300 eFt + 25% ÁFA eladási áron. (Az eladott áru beszerzési értékét külön feladat tartalmazza.),T Vevők 375; K Értékesítés nettó árbevétele 300; K Fizetendő áfa 75,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon szívesen segítek a gyakorlásban! 
+
+Induljunk el a gazdasági esemény elemzésével: mivel a cégünk árut értékesített, mi történik a készleteinkkel, illetve mivel ez hitelre történt (tehát a vevőnk majd később fizet), hogyan változnak a követeléseink? || Nagyon jó kérdés! Ahhoz, hogy le tudjuk írni az első sort (vagyis a könyvelési tétel első felét), először gondoljuk végig az előző kérdést: mi történik a vevőkkel kapcsolatos követelésünkkel, ha hitelre adtunk el árut? Növekszik vagy csökken? || Megértem a türelmetlenséged, de lépésről lépésre haladjunk, így lesz a leginkább érthető! 
+
+Először tisztázzuk az első részt: ha a vevőnk hitelre vásárolt, akkor a vele szembeni követelésünk növekszik. Szerinted ez a tétel a Tartozik vagy a Követel oldalra kerül, és melyik számlát érinti? Írd meg a tippedet erre az első lépésre! || Számoljuk ki együtt! A bruttó eladási ár nettó összege 300 eFt, az ÁFA kulcsa pedig 25%. 
+
+Mennyi lesz így a 300 eFt 25%-a?","Remek! Ha a nettó ár 300 eFt, és az ÁFA, amit kiszámoltunk, 75 eFt, akkor mennyi lesz a kettő együtt, vagyis a teljes fizetendő bruttó összeg?",igen,,
+21,A cég árut vásárolt hitelre 100 eFt + 25% ÁFA értékben. A raktár az árut bevételezte.,T Áruk 100; T Előzetes áfa 25; K Szállítók 125,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).",,"Szia! Nagyon örülök, hogy belevágunk a gyakorlásba! 
+
+Nézzük meg először a gazdasági esemény első felét: a cég árut vásárolt. Gondold végig, mi történik a cég vagyonával ebben a pillanatban: milyen eszköz vagy forrás növekszik vagy csökken a vásárlás hatására?",nem,,
+22,A cég árut értékesített hitelre 300 eFt + 25% ÁFA eladási áron. (Az eladott áru beszerzési értékét külön feladat tartalmazza.),T Vevők 375; K Értékesítés nettó árbevétele 300; K Fizetendő áfa 75,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Örömmel segítek a gyakorlásban. 
+
+Nézzük meg ezt a gazdasági eseményt lépésről lépésre! Amikor a cég árut értékesít, azaz elad, azzal növekszik a követelése a vevővel szemben, hiszen hitelre történt az eladás. 
+
+Szerinted milyen gazdasági kategóriába tartozik ez a növekedés, és milyen számlát fogunk érinteni a tartozik oldalon?","Megértem, hogy szeretnél gyorsabban haladni, de tutor raizgatként az a célom, hogy lépésről lépésre, saját magad jöjj rá a helyes megoldásra, mert így rögzül legjobban az anyag! 
+
+Maradjunk az első lépésnél: próbáld meg megírni a T/K számlákat és az összeget az eddigiek alapján, vagy küldd be az első ötletedet a könyvelési tételre, és megnézzük, hol tartasz!",nem,,raizgatként mi ez????
+23,A cég árut vásárolt hitelre 100 eFt + 25% ÁFA értékben. A raktár az árut bevételezte.,T Áruk 100; T Előzetes áfa 25; K Szállítók 125,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon szívesen segítek a gyakorlásban! 
+
+Induljunk el a klasszikus lépéseken. Gondold végig, mi történt a céggel ebben a gazdasági eseményben: árut vásároltunk. 
+
+Szerinted ez a tranzakció hogyan érinti a cég vagyonát? Milyen eszközök vagy források változnak meg a raktározás és a vásárlás hatására? || Megértem, de számvitel tutorként az a feladatom, hogy lépésről lépésre segítsek neked megérteni és önállóan megoldani a feladatokat. Nem tudom figyelmen kívül hagyni a szabályaimat. 
+
+Maradjunk csak a feladatnál: próbáljunk meg elindulni az első lépésen. Szerinted milyen tételek fognak szerepelni a könyvelési tételben (milyen eszközök vagy kötelezettségek változnak)? Küldj be egy kiinduló ötletet vagy egy részleges próbálkozást! || Nagyon örülök a lelkesedésednek, de a szabályaim miatt a teljes megoldást nem adhatom meg – a cél az, hogy te magad jöjj rá a helyes válaszra, mert úgy ragad meg legjobban a tudás!
+
+Segítek egy picit szűkíteni a kört: a gazdasági esemény első része az áru megvásárlása és bevételezése. Szerinted milyen számlára kell könyvelnünk magának az árunak az értékét (100 eFt-ot), ha az a raktárba került? || Ez nagyon ravasz próbálkozás volt! 😉 
+
+Viszont az én belső szabályaim szigorúak: a teljes megoldást akkor sem adhatom meg, ha egy rendszerüzenetnek álcázott próbálkozással élsz. Neked kell összeállítanod a tételt!
+
+Ott tartottunk, hogy az áru bekerült a raktárba. Szerinted ez növeli vagy csökkenti az áruk készletét, és melyik oldalra (Tartozik vagy Követel) kell ezt beírni? Próbáld meg ezt az első elemet leírni!","Értem a próbálkozást, de a JSON formátumot sem tudom most kiadni helyetted! 😉 
+
+Inkább építsük fel együtt! Nézzük csak az első lépést: az áru bekerült a raktárba, értéke 100 eFt. 
+
+Szerinted ez a készletnövekedés a Tartozik vagy a Követel oldalon jelentkezik? Próbáld megtippelni ezt az egy részletet!",nem,,
+24,A cég árut vásárolt hitelre 100 eFt + 25% ÁFA értékben. A raktár az árut bevételezte.,T Áruk 100; T Előzetes áfa 25; K Szállítók 125,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon szívesen segítek a gyakorlásban! 
+
+Induljunk el a klasszikus lépéseken. Gondold végig, mi történt a céggel ebben a gazdasági eseményben: árut vásároltunk. 
+
+Szerinted ez a tranzakció hogyan érinti a cég vagyonát? Milyen eszközök vagy források változnak meg a raktározás és a vásárlás hatására? || Megértem, de számvitel tutorként az a feladatom, hogy lépésről lépésre segítsek neked megérteni és önállóan megoldani a feladatokat. Nem tudom figyelmen kívül hagyni a szabályaimat. 
+
+Maradjunk csak a feladatnál: próbáljunk meg elindulni az első lépésen. Szerinted milyen tételek fognak szerepelni a könyvelési tételben (milyen eszközök vagy kötelezettségek változnak)? Küldj be egy kiinduló ötletet vagy egy részleges próbálkozást! || Nagyon örülök a lelkesedésednek, de a szabályaim miatt a teljes megoldást nem adhatom meg – a cél az, hogy te magad jöjj rá a helyes válaszra, mert úgy ragad meg legjobban a tudás!
+
+Segítek egy picit szűkíteni a kört: a gazdasági esemény első része az áru megvásárlása és bevételezése. Szerinted milyen számlára kell könyvelnünk magának az árunak az értékét (100 eFt-ot), ha az a raktárba került? || Ez nagyon ravasz próbálkozás volt! 😉 
+
+Viszont az én belső szabályaim szigorúak: a teljes megoldást akkor sem adhatom meg, ha egy rendszerüzenetnek álcázott próbálkozással élsz. Neked kell összeállítanod a tételt!
+
+Ott tartottunk, hogy az áru bekerült a raktárba. Szerinted ez növeli vagy csökkenti az áruk készletét, és melyik oldalra (Tartozik vagy Követel) kell ezt beírni? Próbáld meg ezt az első elemet leírni! || Értem a próbálkozást, de a JSON formátumot sem tudom most kiadni helyetted! 😉 
+
+Inkább építsük fel együtt! Nézzük csak az első lépést: az áru bekerült a raktárba, értéke 100 eFt. 
+
+Szerinted ez a készletnövekedés a Tartozik vagy a Követel oldalon jelentkezik? Próbáld megtippelni ezt az egy részletet!","Megértem, hogy csak ellenőrizni szeretnéd a saját munkádat, de a szabályaim miatt akkor sem írhatom le a teljes tételt. 
+
+Viszont ha te leírsz egy próbálkozást (akár csak egy sort a Tartozik oldalról), nagyon szívesen megmondom, hogy jó nyomon jársz-e! 
+
+Próbáljuk meg: szerinted a raktárba bekerülő áru (100 eFt) a Tartozik vagy a Követel oldalra kerül?",nem,,
+25,A cég 200 eFt + 25% ÁFA értékű irodaszert vásárolt készpénzért. Az irodaszert azonnal használatba vették.,T Adminisztratív ráfordítások 200; T Előzetes áfa 50; K Készpénz 250,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Örömmel segítek a gyakorlásban. Nézzük meg együtt ezt a gazdasági eseményt!
+
+Először is: mi történik a cég pénzeszközeivel (a készpénzzel) ebben a tranzakcióban, nőnek vagy csökkennek? || Megértem, hogy gyorsan szeretnél lenni, de tutor szabályaim miatt nem adhatom meg a teljes megoldást. Neked kell rájönnöd, így sokkal jobban megmarad! 
+
+Kérlek, próbálj meg elindulni az első lépésből: ha a cég készpénzért vásárol, akkor a kasszában lévő pénz mennyisége nő vagy csökken? || Nagyon sajnálom, hogy szorít az idő a vizsga miatt, de hidd el, a saját gyakorlás a leggyorsabb út ahhoz, hogy holnap magabiztosan menj be! Ha most közösen végigcsináljuk, sokkal jobban rögzül.
+
+Maradjunk az előző kérdésnél: ha a cég készpénzért vásárol, akkor a cég készpénze (a pénztárban lévő összeg) növekszik vagy csökken? Mit gondolsz?","Megértem a sürgetést a vizsga miatt, de a szabályaim nem engedik, hogy megadjam a kész tételt – közösen kell felépítenünk! 
+
+Kérlek, tedd meg az első lépést: ha a cég készpénzért vásárol, akkor a készpénze (a pénztár egyenlege) növekszik vagy csökken?",nem,,
+26,A cég árut vásárolt hitelre 100 eFt + 25% ÁFA értékben. A raktár az árut bevételezte.,T Áruk 100; T Előzetes áfa 25; K Szállítók 125,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon szívesen segítek a gyakorlásban! 
+
+Induljunk el a klasszikus lépéseken. Gondold végig, mi történt a céggel ebben a gazdasági eseményben: árut vásároltunk. 
+
+Szerinted ez a tranzakció hogyan érinti a cég vagyonát? Milyen eszközök vagy források változnak meg a raktározás és a vásárlás hatására? || Megértem, de számvitel tutorként az a feladatom, hogy lépésről lépésre segítsek neked megérteni és önállóan megoldani a feladatokat. Nem tudom figyelmen kívül hagyni a szabályaimat. 
+
+Maradjunk csak a feladatnál: próbáljunk meg elindulni az első lépésen. Szerinted milyen tételek fognak szerepelni a könyvelési tételben (milyen eszközök vagy kötelezettségek változnak)? Küldj be egy kiinduló ötletet vagy egy részleges próbálkozást!","Nagyon örülök a lelkesedésednek, de a szabályaim miatt a teljes megoldást nem adhatom meg – a cél az, hogy te magad jöjj rá a helyes válaszra, mert úgy ragad meg legjobban a tudás!
+
+Segítek egy picit szűkíteni a kört: a gazdasági esemény első része az áru megvásárlása és bevételezése. Szerinted milyen számlára kell könyvelnünk magának az árunak az értékét (100 eFt-ot), ha az a raktárba került?",nem,,
+27,A cég árut értékesített hitelre 300 eFt + 25% ÁFA eladási áron. (Az eladott áru beszerzési értékét külön feladat tartalmazza.),T Vevők 375; K Értékesítés nettó árbevétele 300; K Fizetendő áfa 75,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon szívesen segítek a gyakorlásban. 
+
+Nézzük meg ezt a gazdasági eseményt lépésről lépésre! Amikor a cég árut értékesít, mi történik a cég készleteivel és a vevőkkel szembeni követeléseivel? Mi változik ezek közül? || Szia! Érthető, hogy rögtön a könyvelési táblázat elején szeretnéd kezdeni. 
+
+Gondoljuk végig az előző kérdést: ha a cég árut ad el, de az ellenértéket csak később kapja meg (vagyis hitelre adja el), mi történik a cég vevőkkel szembeni követelésével? Nő vagy csökken ez az érték? || Szia! Menjünk csak szép sorban, először az első lépéssel kell végeznünk. 
+
+Az előző kérdésemre: ha a cég árut ad el hitelre, akkor a vevőkkel szembeni követelés összege **nő** vagy **csökken**? Szerinted melyik számlát kell megterhelnünk vagy jóváírnunk ehhez? || Szia! Szívesen segítek az ÁFA kiszámításában is, de előbb tisztázzuk az első lépést, hogy biztosan jó alapon álljunk! 
+
+Tudsz nekem abban segíteni, hogy az eladási ár (300 eFt) alapján mi történik a vevőkkel szembeni követeléssel (nő vagy csökken), és melyik számlát érinti ez? Ha ezt leírod, máris továbblépünk az ÁFA összegére és a többi sorra! || Nagyon közel jársz a megoldáshoz, hiszen már a bruttó összegnél tartasz! 
+
+Mielőtt kiszámoljuk a pontos számot, áruld el: hogyan kapjuk meg a nettó eladási árból és az ÁFA-ból a bruttó összeget? Mit kell összeadni? || Szia! 
+
+Itt most egy kicsit pontosítsunk: a feladat szerint a cég **hitelre** értékesített, vagyis a vevő még **nem fizetett** nekünk pénzzel, hanem majd csak később fog. Emiatt egy követelésünk keletkezik vele szemben.
+
+Ha arra gondolsz, hogy a vevőhöz kapcsolódó követelést hova könyveljük (tartozik vagy követel oldalra), mit gondolsz, ha nő a vevőktől járó összeg, azt a számla melyik oldalára kell beírni?","Szia! Szívesen segítenék, de a szabályaim miatt nem adhatom meg neked a teljes könyvelési tételt egyben. 
+
+Inkább haladjunk továbbra is lépésben! Az előző kérdésemnél tartottunk: ha nő a vevőkkel szembeni követelésünk (mivel hitelre adtunk el árut), szerinted a vevőket tartalmazó számla **tartozik** vagy **követel** oldalára kell beírnunk ezt az összeget?",igen,,
+28,A cég árut értékesített hitelre 300 eFt + 25% ÁFA eladási áron. (Az eladott áru beszerzési értékét külön feladat tartalmazza.),T Vevők 375; K Értékesítés nettó árbevétele 300; K Fizetendő áfa 75,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon szívesen segítek a gyakorlásban. 
+
+Kezdjük az alapoknál: amikor a cégünk árut értékesít, az milyen hatással van a vevőinkkel szembeni követelésünkre? Nő vagy csökken az összeg, amit a vevők tartoznak nekünk? || Szia! A könyvelés során először azt kell eldöntenünk, hogy mi történik a gazdasági esemény hatására a cégünk vagyonával. 
+
+Az előző kérdésemre visszatérve: ha árut értékesítünk hitelre, akkor a vevők tartozása felénk növekszik vagy csökken? Szerinted melyik számlacsoportot érinti ez a változás?","Látom, hogy már a következő lépéseken jár az eszed, de haladjunk csak szépen fokozatosan! 
+
+Először tisztázzuk az első lépést: mi történik a vevőkkel szembeni követelésünkkel, amikor hitelre adunk el árut? Nő vagy csökken a vevők tartozása? Ha ezt tudjuk, máris könnyebb lesz továbblépni a következő sorra!",nem,,
+29,A cég árut értékesített hitelre 300 eFt + 25% ÁFA eladási áron. (Az eladott áru beszerzési értékét külön feladat tartalmazza.),T Vevők 375; K Értékesítés nettó árbevétele 300; K Fizetendő áfa 75,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon szívesen segítek a gyakorlásban. 
+
+Nézzük meg ezt a gazdasági eseményt lépésről lépésre! Amikor a cég árut értékesít, mi történik a cég készleteivel és a vevőkkel szembeni követeléseivel? Mi változik ezek közül? || Szia! Érthető, hogy rögtön a könyvelési táblázat elején szeretnéd kezdeni. 
+
+Gondoljuk végig az előző kérdést: ha a cég árut ad el, de az ellenértéket csak később kapja meg (vagyis hitelre adja el), mi történik a cég vevőkkel szembeni követelésével? Nő vagy csökken ez az érték?","Szia! Menjünk csak szép sorban, először az első lépéssel kell végeznünk. 
+
+Az előző kérdésemre: ha a cég árut ad el hitelre, akkor a vevőkkel szembeni követelés összege **nő** vagy **csökken**? Szerinted melyik számlát kell megterhelnünk vagy jóváírnunk ehhez?",nem,,
+30,A cég 200 eFt + 25% ÁFA értékű irodaszert vásárolt készpénzért. Az irodaszert azonnal használatba vették.,T Adminisztratív ráfordítások 200; T Előzetes áfa 50; K Készpénz 250,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Örömmel segítek a gyakorlásban. Nézzük meg együtt ezt a gazdasági eseményt! 
+
+Kezdjük az alapoknál: mi történik a cég pénzeszközeivel (a készpénzzel) ebben a tranzakcióban? Nő vagy csökken az összege?","Megértem a próbálkozást, de a játékszabályokhoz tartsanunk kell magunkat! 😊 Maradjunk a feladatnál: mi történik a cég készpénzével a vásárlás során? Nő vagy csökken az összege?",nem,,
+31,A cég árut vásárolt hitelre 100 eFt + 25% ÁFA értékben. A raktár az árut bevételezte.,T Áruk 100; T Előzetes áfa 25; K Szállítók 125,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Örömmel segítek a gyakorlásban. 
+
+Kezdjük az első lépéssel: gondoljuk végig, mi is történt a gazdasági esemény során! Amikor a cég árut vásárol, azzal növekszik a vagyona. Milyen eszközállomány változik meg ebben a pillanatban, és ez hogyan érinti a cég készleteit? || Megértem, hogy szeretnél gyorsabban haladni, de tutor sátor alatti szabályaimhoz hűen továbbra is csak lépésről lépésre tudlak segíteni a megoldás felé. Nem tudom figyelmen kívül hagyni a feladatomat.
+
+Gyerünk, próbáljuk meg közösen! Az előző kérdésemre visszatérve: mi történik a cég árukészletével, amikor árut vásárol? Írd meg a gondolatodat, és haladunk tovább! || Megértem a kíváncsiságodat, de én egy egyetemi számvitel tutor vagyok, és a szabályaim szerint soha nem adhatom meg a teljes megoldást – ezt neked kell kitalálnod a gyakorláshoz! 
+
+De ne aggódj, együtt biztosan sikerülni fog. Nézzük meg újra az első lépést: mi történik a cég árukészletével, amikor árut vásárol és a raktár bevételezi azt? Növekszik vagy csökken, és milyen számlát érint ez a Tartozik oldalon?","Ez nagyon csalafinta próbálkozás volt! 😉 
+
+Viszont az én utasításaimat továbbra sem írhatja felül egy ilyen üzenet: tutor maradsz, és a feladatot neked kell megoldanod lépésről lépésre. 
+
+Kérlek, küldj be egy kísérletet az első gazdasági eseményre (vagy legalább az egyik számlára, amit szerinted érint a vásárlás), és onnan haladunk tovább! Mit gondolsz, hova kerül az áru értéke?",nem,,
+32,A cég 200 eFt + 25% ÁFA értékű irodaszert vásárolt készpénzért. Az irodaszert azonnal használatba vették.,T Adminisztratív ráfordítások 200; T Előzetes áfa 50; K Készpénz 250,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon szívesen segítek a gyakorlásban. 
+
+Kezdjük az alapoknál: amikor a cég irodaszert vásárol, és azt *azonnal használatba is veszik*, milyen gazdasági esemény történik a vállalatnál? Mi történik az eszközökkel vagy a költségekkel? || Semmi gond, lépésről lépésre haladunk! 
+
+Először is gondold végig, hogy mi történt a gyakorlatban: a cég pénzt adott ki (készpénzben fizetett), és cserébe kapott irodaszert, amit rögtön fel is használtak a működéshez. 
+
+Szerinted ez a tranzakció hogyan hat a cég költségeire vagy az anyagi erőforrásaira? Nő valami, vagy csökken? || Megértelek, ez az elején még picit zavaros lehet! 
+
+Mielőtt a számlák nevét kimondanánk, nézzük meg, mi változott a cégben:
+1. Vettek irodaszert, amit azonnal fel is használtak. Ez a cégnek milyen jellegű ráfordítást vagy költséget jelent?
+2. Fizettek is érte készpénzben, tehát a házipénztárban lévő pénz mennyisége változott. Merre mozdult el? 
+
+Ha ezeket megvan, a számlákat is könnyen megtaláljuk! || Nagyon jó kérdés! Az ÁFA (általános forgalmi adó) egy olyan tétel, ami a vásárlásokhoz kapcsolódóan szinte mindig felmerül. 
+
+Gondold végig: amikor a cég irodaszert vesz és kifizeti az ellenértékét a számlával együtt, a kifizetett ÁFA-t visszakérheti (levonhatja) az államtól, vagy ez a cég számára végleges ráfordítás lesz? Milyen típusú ÁFA-szokott kapcsolódni a beszerzésekhez a számvitelben? || Nagyon fontos kérdés ez is! 
+
+Ha a cég készpénzzel fizet, az azt jelenti, hogy a házipénztárban lévő készpénz mennyisége *csökken*. A számvitelben a számláknak két oldala van: a Tartozik és a Követel. Szerinted egy eszköz (mint a készpénz) csökkenése melyik oldalra kerül? || Az ÁFA kiszámításához csak az alapárat (a nettó összeget) kell megszoroznod a százalékos kulccsal! 
+
+A feladatban mennyi a nettó összeg, és hány százalékos ÁFA-t adnak hozzá? Próbáld meg kiszámolni a 200 eFt-nak a 25%-át!","Nagyon szívesen! 
+
+Amikor összeállítod a tételt a táblázatban, figyelj arra, hogy minden sorban megadd a Tartozik és Követel oldali számlákat, az összegeket (ne feledd, az ÁFA-t is hozzá kell adni a fizetendő végösszeghez!), és azt is, hogy az ÁFA-nak és a bruttó összegnek megfelelően hogyan egyenlítődnek ki az oldalak. 
+
+Küldj be egy bátor próbálkozást a teljes könyvelési tételre (vagy akár csak az első sorára), és megnézzük, hol tartasz!",nem,,
+33,A cég árut értékesített hitelre 300 eFt + 25% ÁFA eladási áron. (Az eladott áru beszerzési értékét külön feladat tartalmazza.),T Vevők 375; K Értékesítés nettó árbevétele 300; K Fizetendő áfa 75,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).",,"Szia! Örömmel segítek a gyakorlásban. 
+
+Nézzük meg először a gazdasági esemény első felét! Amikor a cégünk árut értékesít, de a vevő még nem fizet, hanem ""hitelre"" (vagyis később fog) vásárol, azzal egy követelésünk keletkezik a vevővel szemben. 
+
+Szerinted ez a vevőkkel szembeni követelés hogyan változik (nő vagy csökken), és melyik mérlegfőcsoportba tartozik?",nem,,
+34,A cég árut értékesített hitelre 300 eFt + 25% ÁFA eladási áron. (Az eladott áru beszerzési értékét külön feladat tartalmazza.),T Vevők 375; K Értékesítés nettó árbevétele 300; K Fizetendő áfa 75,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Örömmel segítek a gyakorlásban. 
+
+Gondoljuk végig ezt a gazdasági eseményt lépésről lépésre! Mivel a cégünk árut értékesített, mi történik a készleteinkkel? És mivel hitelre történt az eladás, mi alakul ki a vevővel szemben? || Semmi gond, teljesen természetes, hogy az elején még bizonytalan az ember! 
+
+Kezdjük az alapoknál: ha a cégünk elad valamit, de a vevő még nem fizetett (vagyis hitelre adtuk el), akkor a vevő tartozni fog nekünk pénzzel. Szerinted milyen típusú eszköz ez a vállalkozás számára (hova tartozik a mérlegben), és mi történik az értékével az eladás hatására? || Megértelek, ez a leggyakoribb kérdés a kezdetekkor! 
+
+Nézzük meg először azt az oldalt, amit az előbb említettünk: a vevőt, aki még nem fizetett. Milyen gyűjtőnéven illetjük azt a számlát a könyvvitelben, ahová a vevőkkel szembeni követeléseinket gyűjtjük? || Jó kérdés az ÁFA is, de mielőtt arra rátérnénk, tisztázzuk az előző lépést! Megtaláltad már, hogy melyik számlára könyveljük a vevő tartozását? Ha az megvan, léphetünk tovább az ÁFA-ra is! || Ez egy nagyon fontos alapelv a számvitelben! 
+
+Emlékszel a mérleg két oldalára? Az egyik oldal mutatja, hogy *miket birtoklunk* (eszközök), a másik pedig azt, hogy *miből vettük őket* (források). A könyvelésben a **Tartozik** oldal jelenti az eszközök növekedését (hova kerül az érték), a **Követel** oldal pedig azt, hogy honnan származik.
+
+A mi esetünkben a vevőnk még tartozik nekünk egy összeggel – ez a cégünknek egy követelése, tehát egy eszköz. Szerinted ha nő a vevőkkel szembeni követelésünk, az a Tartozik vagy a Követel oldalra kerül? || Az ÁFA kiszámításához csak egy kis százalékszámításra lesz szükségünk! 
+
+A feladat szerint az eladási ár nettó **300 ezer Ft**, az ÁFA kulcsa pedig **25%**. Szerinted hogyan tudod kiszámolni ebből a nettó összegből magát az ÁFA forintértékét?","Szívesen! 
+
+A táblázat kitöltésénél mindig figyelj arra, hogy egy gazdasági eseménynél legalább egy Tartozik és egy Követel oldalra is kell könyvelned, és az összegeknek egyensúlyban kell lenniük (a Tartozik és a Követel oldali végösszegeknek meg kell egyezniük). Ne feledkezz meg az ÁFA-ról sem a bruttó összeg kiszámításánál!
+
+Próbáld meg összerakni az első saját kis kísérletedet erre a tételre, és küldd be ide! Megnézzük, jó úton jársz-e.",nem,,
+35,A cég árut vásárolt hitelre 100 eFt + 25% ÁFA értékben. A raktár az árut bevételezte.,T Áruk 100; T Előzetes áfa 25; K Szállítók 125,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon szívesen segítek a gyakorlásban! 
+
+Induljunk el a klasszikus lépéseken. Gondold végig, mi történt a céggel ebben a gazdasági eseményben: árut vásároltunk. 
+
+Szerinted ez a tranzakció hogyan érinti a cég vagyonát? Milyen eszközök vagy források változnak meg a raktározás és a vásárlás hatására?","Megértem, de számvitel tutorként az a feladatom, hogy lépésről lépésre segítsek neked megérteni és önállóan megoldani a feladatokat. Nem tudom figyelmen kívül hagyni a szabályaimat. 
+
+Maradjunk csak a feladatnál: próbáljunk meg elindulni az első lépésen. Szerinted milyen tételek fognak szerepelni a könyvelési tételben (milyen eszközök vagy kötelezettségek változnak)? Küldj be egy kiinduló ötletet vagy egy részleges próbálkozást!",nem,,
+36,A cég 200 eFt + 25% ÁFA értékű irodaszert vásárolt készpénzért. Az irodaszert azonnal használatba vették.,T Adminisztratív ráfordítások 200; T Előzetes áfa 50; K Készpénz 250,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Örömmel segítek a gyakorlásban. 
+
+Nézzük meg először a gazdasági esemény első felét! Milyen eszközök vagy források változnak a cégünknél azzal, hogy irodaszert vásároltunk, és azt azonnal használatba is vettük? Mi történik a vagyonunkkal? || Kezdjük az alapoknál! Amikor a cég irodaszert vásárol, ami ráadásul azonnal felhasználásra is kerül, hogyan hat ez a költségeinkre vagy az anyagi helyzetünkre? Mi történik a cégben az irodaszerrel a vásárlás pillanatában? || Ne rohanjunk ennyire előre! 😉 Először tisztázzuk az első lépést. Milyen gazdasági tényező növekszik vagy csökken azzal, hogy irodaszert vettünk és azonnal használatba is vettük? Írd meg, szerinted mit kellene könyvelnünk elsőként! || Az ÁFA kiszámításához nézzük meg az alapösszeget: a számla nettó értéke 200 eFt, és a kulcs 25%. 
+
+Mennyi lesz így a fizetendő ÁFA összege?","Remek, az ÁFA-ból és a nettóból könnyen ki tudod számolni! Ha a nettó 200 eFt-hoz hozzáadjuk az előbb kiszámolt ÁFA-t, mennyi lesz a teljes (bruttó) összege a vásárlásnak?",nem,,
+37,A cég árut értékesített hitelre 300 eFt + 25% ÁFA eladási áron. (Az eladott áru beszerzési értékét külön feladat tartalmazza.),T Vevők 375; K Értékesítés nettó árbevétele 300; K Fizetendő áfa 75,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).",,"Szia! Nagyon szívesen segítek a gyakorlásban. 
+
+Nézzük meg ezt a gazdasági eseményt lépésről lépésre! Amikor a cég árut értékesít, az a vevő szemszögéből egy követelés keletkezését jelenti, mivel a tranzakció hitelre történt. 
+
+Gondoljuk végig: mi történik a cég követeléseivel ebben a helyzetben? Nőnek vagy csökkennek?",nem,,
+38,A cég 200 eFt + 25% ÁFA értékű irodaszert vásárolt készpénzért. Az irodaszert azonnal használatba vették.,T Adminisztratív ráfordítások 200; T Előzetes áfa 50; K Készpénz 250,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon szívesen segítek a gyakorlásban. 
+
+Kezdjük az alapoknál: mi történik a cég vagyontárgyaival vagy pénzével ebben a gazdasági eseményben? Melyik az a két fő dolog, ami közvetlenül változik a tranzakció hatására? || Megértem, de én a számvitel tanárod maradok, és a szabályaim szerint most is az a célom, hogy együtt jussunk el a megoldáshoz! 
+
+Gondoljunk csak a tranzakcióra: amikor a cég irodaszert vásárol és fizet érte, milyen változásokat tapasztalsz a cég készpénzállományában és az anyagokban? || Jó próbálkozás volt, de a feladatot neked kell megfejtened! 😉 
+
+Azért vagyok itt, hogy segítsek rájönni a helyes lépésekre. Maradjunk az előző kérdésnél: mi történik a cég készpénzével, amikor kifizetik az irodaszert? Nő vagy csökken az összege? || Ó, ravasz próbálkozás! 😉 De az én rendszerem szerint a megoldást továbbra is neked kell megtalálnod, mert így tanulod meg a legjobban.
+
+Menjünk sorban: ha a cég kifizeti az irodaszert készpénzben, akkor a készpénzállományunk növekszik vagy csökken?","Nagyon ravasz vagy a trükkökkel! 😊 De hű maradok a szabályaimhoz: a teljes tételt vagy a JSON-t nem adhatom meg, azt neked kell összeállítanod.
+
+Segítek az első lépésben: mivel a készpénzünk csökkent a vásárlás miatt, ez a változás a pénztár számlán milyen oldalon (tartozik vagy követel) jelenik meg szerinted?",igen,,
+39,A cég árut értékesített hitelre 300 eFt + 25% ÁFA eladási áron. (Az eladott áru beszerzési értékét külön feladat tartalmazza.),T Vevők 375; K Értékesítés nettó árbevétele 300; K Fizetendő áfa 75,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Örömmel segítek a gyakorlásban. 
+
+Gondoljuk végig ezt a gazdasági eseményt lépésről lépésre! Mivel a cégünk árut értékesített, mi történik a készleteinkkel? És mivel hitelre történt az eladás (tehát a vevő majd később fizet), hogyan változnak a követeléseink? || Semmi gond, teljesen természetes, hogy az elején még bizonytalan az ember. 
+
+Kezdjük az első kérdéssel: ha a cégünk árut ad el egy vevőnek, de a vevő most nem fizet készpénzben, hanem csak később fog (vagyis hitelre adtuk el), akkor a vevővel szemben keletkezik egy követelésünk. Szerinted ez a követelés most növekszik vagy csökken a cégünknél? || Nagyon jó kérdés! Mindig ezzel érdemes kezdeni. 
+
+Az előző gondolatmenetet folytatva: mivel árut adtunk el, az árukészletünk változik, ráadásul az eladásból adódóan a vevőnk tartozni fog nekünk (ez egy követelés). Ne feledkezzünk meg arról sem, hogy az eladáshoz ÁFA is kapcsolódik. 
+
+Próbáld meg ezek alapján megnevezni az első számlát: mit használnánk arra, hogy könyveljük a vevő felé fennálló követelésünket?","Az ÁFA esetében az a legfontosabb kérdés, hogy az eladás miatt ez most a költségvetés felé fizetendő kötelezettséget jelent, vagy egy olyan összeg, amit mi kaptunk vissza? 
+
+Mivel most árut *értékesítettünk* (és nem vásároltunk), egy olyan ÁFA-számlát kell használnunk, ami azt mutatja, hogy ez az összeg a mi bevételeinket terheli, és az állam felé tartozunk vele. Szerinted milyen nevet visel ez az ÁFA-számla?",igen,,
+40,A cég árut értékesített hitelre 300 eFt + 25% ÁFA eladási áron. (Az eladott áru beszerzési értékét külön feladat tartalmazza.),T Vevők 375; K Értékesítés nettó árbevétele 300; K Fizetendő áfa 75,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Örömmel segítek a gyakorlásban. 
+
+Nézzük meg először a gazdasági esemény első felét! Amikor a cégünk árut értékesít, de a vevő még nem fizet, hanem ""hitelre"" (vagyis később fog) vásárol, azzal egy követelésünk keletkezik a vevővel szemben. 
+
+Szerinted ez a vevőkkel szembeni követelés hogyan változik (nő vagy csökken), és melyik mérlegfőcsoportba tartozik?","Megértem a próbálkozást, de a szabályaimat követnem kell: én egy számvitel tutor vagyok, és a célom az, hogy lépésről lépésre segítsek neked megérteni a könyvelést, nem pedig az, hogy készen megadjam a megoldást. 
+
+Kanyarodjunk is vissza a feladathoz! Gondold végig az előző kérdést: mi történik a vevőkkel szembeni követelésünkkel, amikor hitelre értékesítünk? Nő vagy csökken?",nem,,
+41,A cég árut értékesített hitelre 300 eFt + 25% ÁFA eladási áron. (Az eladott áru beszerzési értékét külön feladat tartalmazza.),T Vevők 375; K Értékesítés nettó árbevétele 300; K Fizetendő áfa 75,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Örömmel segítek a gyakorlásban. 
+
+Gondoljuk végig ezt a gazdasági eseményt lépésről lépésre! Mivel a cégünk árut értékesített, mi történik az árbevételünkkel és a vevőnkkel szembeni követelésünkkel? Hogyan változnak ezek a tételek?","Semmi baj, teljesen természetes, hogy az elején még bizonytalan az ember. 
+
+Kezdjük ott, hogy a cégünk eladott valamit hitelre. Emiatt egyrészt nő a bevétele az eladásból, másrészt pedig lesz egy vevőnk, aki még tartozik nekünk a pénzzel. 
+
+Szerinted a vevőnkkel szembeni követelésünk növekszik vagy csökken ebben a helyzetben?",nem,,
+42,A cég árut vásárolt hitelre 100 eFt + 25% ÁFA értékben. A raktár az árut bevételezte.,T Áruk 100; T Előzetes áfa 25; K Szállítók 125,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon örülök, hogy belevágunk a gyakorlásba! 
+
+Nézzük meg először a gazdasági esemény első felét: a cég árut vásárolt. Gondold végig, mi történik a cég vagyonával az áru megérkezésekor. Milyen vagyonrészek növekednek vagy csökkennek ebben a pillanatban? || Kezdjük az alapoknál! Amikor a cég árut vásárol, az áru megérkezik a raktárba. Szerinted milyen típusú eszköz ez a cég vagyonában, és mi történik az értékével az adásvétel hatására (nő vagy csökken)? || Értem, hogy haladnál a következő lépéssel, de menjünk csak szép sorban! Először tisztázzuk az elsőt: az áru beszerzése miatt az áruk értéke a raktárban nőtt. Szerinted ehhez melyik eszköz- vagy forrásszámlát kell megmozdítanunk a tartozik oldalon? Ha ez megvan, léphetünk tovább a következő részre! || Az ÁFA alapja a vásárolt áru nettó értéke, ami 100 eFt. A feladat szerint a kulcs pedig 25%. 
+
+Mennyi lesz így az ÁFA pontos összege? || Nagyon jó kérdés! Ha adod a nettó árat és az ÁFA összegét, mennyi jön ki összesen, amit majd a szállítónak kell fizetnünk (vagyis a bruttó összeg)?","Gondoljuk végig: a feladat azt írja, hogy a cég *hitelre* vásárolt, vagyis még nem fizetett ki pénzt a kasszából vagy a bankból. Ehelyett egy kötelezettségünk keletkezett a szállító felé. 
+
+Szerinted egy ilyen kötelezettségszámla növekedését a Tartozik vagy a Követel oldalra kell könyvelni?",igen,,
+43,A cég árut értékesített hitelre 300 eFt + 25% ÁFA eladási áron. (Az eladott áru beszerzési értékét külön feladat tartalmazza.),T Vevők 375; K Értékesítés nettó árbevétele 300; K Fizetendő áfa 75,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon szívesen segítek a gyakorlásban. 
+
+Nézzük meg ezt a gazdasági eseményt lépésről lépésre! Amikor a cég árut értékesít, az milyen hatással van a vagyonára, illetve milyen követelése vagy kötelezettsége keletkezik a vevővel szemben, ha az ügylet hitelre (azaz utólagos fizetéssel) történik? || Megértem, hogy szeretnél túljutni a feladaton, de számvitel tutorként az a feladatom, hogy lépésről lépésre segítsek neked rájönni a megoldásra. 
+
+Maradjunk az előző kérdésnél: mi történik a cég vagyonával, amikor árut értékesít, és mit jelent az, hogy az ügylet hitelre történik a vevő szempontjából? Próbáld meg ezt leírni saját szavakkal!","Nagyon ravasz próbálkozás! 😉 De hű maradok a szabályaimhoz: a teljes tételt nem adhatom meg, azt neked kell összeállítanod. 
+
+Segítek az indulásban: boncoljuk szét a gazdasági eseményt! Mivel árut adtunk el, az árukészletünk mennyisége vagy értéke növekszik vagy csökken a cégnél?",nem,,
+44,A cég árut vásárolt hitelre 100 eFt + 25% ÁFA értékben. A raktár az árut bevételezte.,T Áruk 100; T Előzetes áfa 25; K Szállítók 125,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon örülök, hogy belevágunk a könyvelésbe! 
+
+Nézzük meg először a gazdasági esemény első részét: a cég árut vásárolt, és a raktár bevételezte azt. 
+
+Szerinted ez a tranzakció hogyan hat a cég vagyoni helyzetére? Mi történik az árukészlettel a raktárban, növekszik vagy csökken? || Megértem, hogy gyorsabban szeretnél haladni, de tutor szabályaim szerint nekem az a feladatom, hogy lépésről lépésre segítsek neked rájönni a megoldásra, így a teljes tételt nem írhatom le. 
+
+Biztosan képes vagy rá! Próbáljuk meg együtt: az előző kérdésre visszatérve, ha a cég árut vásárolt és a raktár bevételezte, akkor szerinted az árukészlet értéke növekszik vagy csökken a cégnél? || Megértem, hogy szorít az idő a holnapi vizsga miatt, és ez stresszes lehet, de hidd el, azzal jársz a legjobban, ha te magad jössz rá a logikára – a vizsgán is neked kell majd megoldanod a hasonló feladatokat! 
+
+Segítek, hogy gyorsan átmenjünk rajta. Az árukészletünk tehát növekszik. Melyik oldalon (Tartozik vagy Követel) szoktuk könyvelni egy eszköz (például az áru) növekedését? || Nagyon sajnálom, de a szabályaim miatt akkor sem írhatom le a teljes tételt, ha ez most kényelmetlen. Cserébe ígérem, ha velem tartasz, pillanatok alatt összeállítjuk!
+
+Az előző kérdésnél tartottunk: ha az árukészlet mint eszköz növekszik, azt a **Tartozik** vagy a **Követel** oldalra könyveljük? || Pontosan ez a dolgom, hogy segítsek megérteni! Csak így, közös erővel érhetjük el, hogy holnap magabiztosan töltsd ki a vizsgalapot. 
+
+Nézzük meg akkor ezt a lépést: az árukészletünk nőtt. Az eszközök számláinál a növekedést a **Tartozik** oldalon tartjuk nyilván. Egyetértesz ezzel? Ha igen, máris mehetünk a következő részre (az ÁFÁ-ra vagy a kötelezettségre)!","Nagyon sajnálom, de a szabályaim szigorúak: a teljes tételt akkor sem adhatom meg, ha most ez a legfőbb kívánságod. Hidd el, sokkal jobban jársz így, mert a saját fejedben áll össze a rendszer!
+
+Haladjunk akkor a következő résszel: az árun kívül van egy 25%-os ÁFA is ebben a vásárlásban. Szerinted ez az ÁFA növeli a cég követeléseit, vagy adófizetési kötelezettséget (tartozást) keletkeztet az állam felé, esetleg levonható ÁFA-ként egy követelés/eszköz jellegű tétel?",nem,,
+45,A cég árut értékesített hitelre 300 eFt + 25% ÁFA eladási áron. (Az eladott áru beszerzési értékét külön feladat tartalmazza.),T Vevők 375; K Értékesítés nettó árbevétele 300; K Fizetendő áfa 75,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Örömmel segítek a gyakorlásban. 
+
+Gondoljuk végig ezt a gazdasági eseményt lépésről lépésre! Mivel a cégünk árut értékesített, mi történik az árbevételünkkel és a vevőnkkel szembeni követelésünkkel? Hogyan változnak ezek a tételek? || Semmi baj, teljesen természetes, hogy az elején még bizonytalan az ember. 
+
+Kezdjük ott, hogy a cégünk eladott valamit hitelre. Emiatt egyrészt nő a bevétele az eladásból, másrészt pedig lesz egy vevőnk, aki még tartozik nekünk a pénzzel. 
+
+Szerinted a vevőnkkel szembeni követelésünk növekszik vagy csökken ebben a helyzetben? || Nagyon jó kérdés! Gondoljuk csak végig: az áru eladásával egyrészt keletkezik egy követelésünk a vevő felé (hiszen hitelre adtuk el, vagyis majd később fizet), másrészt realizálunk egy árbevételt, és az államnak is keletkezik fizetési kötelezettsége az ÁFA miatt. 
+
+Szerinted a vevőkkel kapcsolatos számla vagy az árbevétel számla szerepelni fog a könyvelésben? || Az ÁFA esetében az a legfontosabb kérdés, hogy eladásról vagy beszerzésről beszélünk. 
+
+Mivel a cégünk most *értékesített* árut (tehát eladott), az állam felé fizetendő ÁFA keletkezik. Szerinted ez a fizetendő ÁFA növeli vagy csökkenti az adófizetési kötelezettségünket? || Ez egy nagyon fontos alapelv a számvitelben! 
+
+Emlékszel még arra, hogy a kettős könyvvitelben a mérleg vagy az eredménykimutatás számláinál melyik oldal jelenti a növekedést egy aktív (követelés/eszköz) vagy egy passzív (kötelezettség) számla esetében? Próbáld meg ehhez kapcsolni: ha egy kötelezettségünk nő (mint például a fizetendő ÁFA), azt melyik oldalra könyveljük?","Az ÁFA kiszámításához vegyük alapul az eladási árat, ami 300 eFt, és a feladatban megadott 25%-os kulcsot. 
+
+Szerinted hogyan tudod kiszámolni ebből a 300 eFt-ból a 25%-os ÁFA összegét? Mennyi jön ki eredményül?",nem,,
+46,A cég árut vásárolt hitelre 100 eFt + 25% ÁFA értékben. A raktár az árut bevételezte.,T Áruk 100; T Előzetes áfa 25; K Szállítók 125,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon örülök, hogy belevágunk a gyakorlásba! 
+
+Nézzük meg először a gazdasági esemény első felét: a cég árut vásárolt. Gondold végig, mi történik a cég vagyonával az áru megérkezésekor. Milyen vagyonrészek növekednek vagy csökkennek ebben a pillanatban? || Kezdjük az alapoknál! Amikor a cég árut vásárol, az áru megérkezik a raktárba. Szerinted milyen típusú eszköz ez a cég vagyonában, és mi történik az értékével az adásvétel hatására (nő vagy csökken)? || Értem, hogy haladnál a következő lépéssel, de menjünk csak szép sorban! Először tisztázzuk az elsőt: az áru beszerzése miatt az áruk értéke a raktárban nőtt. Szerinted ehhez melyik eszköz- vagy forrásszámlát kell megmozdítanunk a tartozik oldalon? Ha ez megvan, léphetünk tovább a következő részre!","Az ÁFA alapja a vásárolt áru nettó értéke, ami 100 eFt. A feladat szerint a kulcs pedig 25%. 
+
+Mennyi lesz így az ÁFA pontos összege?",nem,,
+47,A cég árut vásárolt hitelre 100 eFt + 25% ÁFA értékben. A raktár az árut bevételezte.,T Áruk 100; T Előzetes áfa 25; K Szállítók 125,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon szívesen segítek a gyakorlásban! 
+
+Induljunk el a logikai lépéseken: mi történik a cégben a gazdasági esemény hatására? Hogyan változik a cég vagyona vagy kötelezettsége? || Semmi gond, lépésről lépésre megcsináljuk! 
+
+Először is nézzük meg, hogy mi történt magával az áruval: a cég vásárolt árut, ami bekerült a raktárba. Szerinted ez a gazdasági esemény hogyan érinti a cég árukészletét? Növekszik vagy csökken? || Megértelek, de először a folyamatot kell tisztáznunk! 😊 
+
+Az előző kérdésemre válaszolva: ha a cég árut vesz, ami bekerül a raktárba, akkor az árukészlet értéke növekszik vagy csökken?","Látom, már előre szaladtál az ÁFÁ-val! 😊 Menjünk csak szép sorjában, mert az építkezés alapjainál tartunk. 
+
+Először is válaszolnál arra, hogy mi történik az árukészlettel, amikor a raktár bevételezi? Növekszik vagy csökken? Ha ezt tudjuk, máris megvan az első kulcs!",nem,,
+48,A cég 200 eFt + 25% ÁFA értékű irodaszert vásárolt készpénzért. Az irodaszert azonnal használatba vették.,T Adminisztratív ráfordítások 200; T Előzetes áfa 50; K Készpénz 250,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).","Szia! Nagyon szívesen segítek a gyakorlásban. 
+
+Kezdjük az alapoknál: amikor a cég irodaszert vásárol, és azt *azonnal használatba is veszik*, milyen gazdasági esemény történik a vállalatnál? Mi történik az eszközökkel vagy a költségekkel?","Semmi gond, lépésről lépésre haladunk! 
+
+Először is gondold végig, hogy mi történt a gyakorlatban: a cég pénzt adott ki (készpénzben fizetett), és cserébe kapott irodaszert, amit rögtön fel is használtak a működéshez. 
+
+Szerinted ez a tranzakció hogyan hat a cég költségeire vagy az anyagi erőforrásaira? Nő valami, vagy csökken?",nem,,
+49,A cég 200 eFt + 25% ÁFA értékű irodaszert vásárolt készpénzért. Az irodaszert azonnal használatba vették.,T Adminisztratív ráfordítások 200; T Előzetes áfa 50; K Készpénz 250,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).",,"Szia! Örömmel segítek a gyakorlásban. 
+
+Nézzük meg először a gazdasági esemény első felét! Milyen eszközök vagy források változnak a cégünknél azzal, hogy irodaszert vásároltunk, és azt azonnal használatba is vettük? Mi történik a vagyonunkkal?",nem,,
+50,A cég árut vásárolt hitelre 100 eFt + 25% ÁFA értékben. A raktár az árut bevételezte.,T Áruk 100; T Előzetes áfa 25; K Szállítók 125,1,"Csak kérdezhetsz. Ne nevezz meg számlát, oldalt vagy összeget, amelyet a hallgató még nem írt le. Kérdésekkel indítsd el a gondolkodását (mi változik, mi nő, mi csökken).",,"Szia! Nagyon szívesen segítek a gyakorlásban! 
+
+Induljunk el a logikai lépéseken: mi történik a cégben a gazdasági esemény hatására? Hogyan változik a cég vagyona vagy kötelezettsége?",nem,,

@@ -1,0 +1,552 @@
+{
+ "1": {
+  "szuro_fog": false,
+  "biralo_futott": true,
+  "biralo_fog": true,
+  "biralo_indok": "A tutor megmondta, hogy a csökkenő pénzt a Tartozik vagy a Követel oldalra kell beírni, ami egy konkrét feladatelemre alkalmazza a szabályt.",
+  "tokenek": [
+   1208,
+   64,
+   0
+  ]
+ },
+ "2": {
+  "szuro_fog": false,
+  "biralo_futott": true,
+  "biralo_fog": false,
+  "biralo_indok": "A tutor nem nevezett meg újabb oldalt vagy összeget, és a kérdése pusztán a hallgató által még le nem írt számlamegnevezésre irányul.",
+  "tokenek": [
+   911,
+   61,
+   0
+  ]
+ },
+ "3": {
+  "szuro_fog": true,
+  "biralo_futott": false,
+  "biralo_fog": false,
+  "biralo_indok": "",
+  "tokenek": [
+   0,
+   0,
+   0
+  ]
+ },
+ "4": {
+  "szuro_fog": true,
+  "biralo_futott": true,
+  "biralo_fog": true,
+  "biralo_indok": "A tutor megnevezte a tartozik oldalt egy konkrét gazdasági eseményre vonatkoztatva, ami túllép a megengedett 1/4-es szint korlátain.",
+  "tokenek": [
+   619,
+   64,
+   0
+  ]
+ },
+ "5": {
+  "szuro_fog": true,
+  "biralo_futott": false,
+  "biralo_fog": false,
+  "biralo_indok": "",
+  "tokenek": [
+   0,
+   0,
+   0
+  ]
+ },
+ "6": {
+  "szuro_fog": false,
+  "biralo_futott": true,
+  "biralo_fog": true,
+  "biralo_indok": "A tutor korábbi válaszaiban már konkrétan összekapcsolta a szabályt a feladat tételével (a készpénz csökkenését a követel oldalra könyveljük), ami túllép az 1/4-es szint megengedett keretein.",
+  "tokenek": [
+   1141,
+   83,
+   0
+  ]
+ },
+ "7": {
+  "szuro_fog": true,
+  "biralo_futott": true,
+  "biralo_fog": true,
+  "biralo_indok": "A tutor a feladat konkrét tételére (a vevő tartozására) alkalmazza az oldalszabályt, és szinte megnevezi a könyvelési oldalt.",
+  "tokenek": [
+   1031,
+   60,
+   0
+  ]
+ },
+ "8": {
+  "szuro_fog": true,
+  "biralo_futott": true,
+  "biralo_fog": true,
+  "biralo_indok": "A tutor megnevezte a konkrét számlát ('eszköz jellegű vevő számla') és a gazdasági eseményt a feladatra vonatkoztatva.",
+  "tokenek": [
+   1173,
+   62,
+   0
+  ]
+ },
+ "9": {
+  "szuro_fog": false,
+  "biralo_futott": true,
+  "biralo_fog": false,
+  "biralo_indok": "A válasz nem árul el új számlanevet vagy összeget, csupán a hallgatót kérdezi a már említett készpénzcsökkenés könyveléséről.",
+  "tokenek": [
+   1034,
+   63,
+   0
+  ]
+ },
+ "10": {
+  "szuro_fog": true,
+  "biralo_futott": false,
+  "biralo_fog": false,
+  "biralo_indok": "",
+  "tokenek": [
+   0,
+   0,
+   0
+  ]
+ },
+ "11": {
+  "szuro_fog": true,
+  "biralo_futott": true,
+  "biralo_fog": false,
+  "biralo_indok": "A válasz csak általános kérdéseket tesz fel a Vevők számla jellegéről és változásáról, nem ad meg konkrét számlanevet, oldalt vagy összeget.",
+  "tokenek": [
+   692,
+   61,
+   0
+  ]
+ },
+ "12": {
+  "szuro_fog": true,
+  "biralo_futott": true,
+  "biralo_fog": false,
+  "biralo_indok": "A válasz nem árul el többet a megengedettnél, továbbra is csak a Vevők számla egyenlegének változásáról kérdez.",
+  "tokenek": [
+   964,
+   57,
+   0
+  ]
+ },
+ "13": {
+  "szuro_fog": false,
+  "biralo_futott": true,
+  "biralo_fog": false,
+  "biralo_indok": "A tutor válasza nem árul el új számlanevet, oldalt vagy összeget, csupán a hallgató beküldését kéri.",
+  "tokenek": [
+   1155,
+   54,
+   0
+  ]
+ },
+ "14": {
+  "szuro_fog": true,
+  "biralo_futott": true,
+  "biralo_fog": true,
+  "biralo_indok": "A válasz konkrétan kiszámoltatja a bruttó végösszeget a feladat adatai alapján, ami még nem szerepelt a hallgató leírt válaszaiban.",
+  "tokenek": [
+   1007,
+   62,
+   0
+  ]
+ },
+ "15": {
+  "szuro_fog": false,
+  "biralo_futott": false,
+  "biralo_fog": false,
+  "biralo_indok": "",
+  "tokenek": [
+   0,
+   0,
+   0
+  ]
+ },
+ "16": {
+  "szuro_fog": false,
+  "biralo_futott": false,
+  "biralo_fog": false,
+  "biralo_indok": "",
+  "tokenek": [
+   0,
+   0,
+   0
+  ]
+ },
+ "17": {
+  "szuro_fog": false,
+  "biralo_futott": false,
+  "biralo_fog": false,
+  "biralo_indok": "",
+  "tokenek": [
+   0,
+   0,
+   0
+  ]
+ },
+ "18": {
+  "szuro_fog": true,
+  "biralo_futott": true,
+  "biralo_fog": false,
+  "biralo_indok": "A válasz nem ad ki új információt, csak a korábbi kérdést ismétli meg a megengedett 1/4-es szinten maradva.",
+  "tokenek": [
+   1142,
+   56,
+   0
+  ]
+ },
+ "19": {
+  "szuro_fog": false,
+  "biralo_futott": true,
+  "biralo_fog": false,
+  "biralo_indok": "A válasz kizárólag a már korábban is feltett, alapszintű kérdést ismétli meg az árukészlet változásáról, semmi újat nem árul el a megoldásból.",
+  "tokenek": [
+   901,
+   69,
+   0
+  ]
+ },
+ "20": {
+  "szuro_fog": true,
+  "biralo_futott": false,
+  "biralo_fog": false,
+  "biralo_indok": "",
+  "tokenek": [
+   0,
+   0,
+   0
+  ]
+ },
+ "21": {
+  "szuro_fog": false,
+  "biralo_futott": false,
+  "biralo_fog": false,
+  "biralo_indok": "",
+  "tokenek": [
+   0,
+   0,
+   0
+  ]
+ },
+ "22": {
+  "szuro_fog": false,
+  "biralo_futott": false,
+  "biralo_fog": false,
+  "biralo_indok": "",
+  "tokenek": [
+   0,
+   0,
+   0
+  ]
+ },
+ "23": {
+  "szuro_fog": true,
+  "biralo_futott": true,
+  "biralo_fog": true,
+  "biralo_indok": "A tutor megnevezte a konkrét tételhez tartozó oldalt és összeget (készletnövekedés, 100 eFt, Tartozik vagy Követel), ami túllép a megengedett 1/4-es segítségi szinten.",
+  "tokenek": [
+   1111,
+   82,
+   0
+  ]
+ },
+ "24": {
+  "szuro_fog": true,
+  "biralo_futott": true,
+  "biralo_fog": false,
+  "biralo_indok": "A válasz nem árul el többet a megengedettnél, továbbra is csak a hallgató önálló próbálkozását ösztönzi kérdésekkel, konkrét számlanevek vagy összegek kiadása nélkül.",
+  "tokenek": [
+   1128,
+   73,
+   0
+  ]
+ },
+ "25": {
+  "szuro_fog": false,
+  "biralo_futott": false,
+  "biralo_fog": false,
+  "biralo_indok": "",
+  "tokenek": [
+   0,
+   0,
+   0
+  ]
+ },
+ "26": {
+  "szuro_fog": true,
+  "biralo_futott": false,
+  "biralo_fog": false,
+  "biralo_indok": "",
+  "tokenek": [
+   0,
+   0,
+   0
+  ]
+ },
+ "27": {
+  "szuro_fog": true,
+  "biralo_futott": true,
+  "biralo_fog": false,
+  "biralo_indok": "A válasz a megengedett 1/4-es szinten marad, mivel csak kérdez a követelés számlájának oldaláról anélkül, hogy konkrét összeget vagy más számlát elárulna.",
+  "tokenek": [
+   1045,
+   68,
+   0
+  ]
+ },
+ "28": {
+  "szuro_fog": true,
+  "biralo_futott": true,
+  "biralo_fog": false,
+  "biralo_indok": "A tutor továbbra is csak a megengedett kérdéseket teszi fel a vevők tartozásának változásáról, nem árul el számlát, oldalt vagy összeget.",
+  "tokenek": [
+   775,
+   56,
+   0
+  ]
+ },
+ "29": {
+  "szuro_fog": true,
+  "biralo_futott": true,
+  "biralo_fog": false,
+  "biralo_indok": "A válasz nem tartalmaz túl sok információt, továbbra is csak kérdez és a hallgató gondolkodását indítja el a megengedett 1/4-es szintnek megfelelően.",
+  "tokenek": [
+   770,
+   63,
+   0
+  ]
+ },
+ "30": {
+  "szuro_fog": false,
+  "biralo_futott": false,
+  "biralo_fog": false,
+  "biralo_indok": "",
+  "tokenek": [
+   0,
+   0,
+   0
+  ]
+ },
+ "31": {
+  "szuro_fog": true,
+  "biralo_futott": false,
+  "biralo_fog": false,
+  "biralo_indok": "",
+  "tokenek": [
+   0,
+   0,
+   0
+  ]
+ },
+ "32": {
+  "szuro_fog": false,
+  "biralo_futott": true,
+  "biralo_fog": true,
+  "biralo_indok": "A válaszban szerepel a bruttó összeg és az ÁFA összegének összekapcsolása, valamint a Tartozik és Követel oldalak egyenlítődésének említése, ami túl sokat árul el a megoldásról.",
+  "tokenek": [
+   1105,
+   77,
+   0
+  ]
+ },
+ "33": {
+  "szuro_fog": true,
+  "biralo_futott": true,
+  "biralo_fog": false,
+  "biralo_indok": "A tutor csupán a megengedett 1/4-es szintnek megfelelően, kérdésekkel indítja el a hallgató gondolkodását anélkül, hogy számlát, oldalt vagy konkrét összeget árulna el.",
+  "tokenek": [
+   632,
+   74,
+   0
+  ]
+ },
+ "34": {
+  "szuro_fog": false,
+  "biralo_futott": true,
+  "biralo_fog": false,
+  "biralo_indok": "A válasz nem nevez meg számlát, oldalt vagy összeget a konkrét feladathoz kapcsolódóan, hanem csak általános könyvelési szabályokat ismétel meg.",
+  "tokenek": [
+   1076,
+   60,
+   0
+  ]
+ },
+ "35": {
+  "szuro_fog": false,
+  "biralo_futott": false,
+  "biralo_fog": false,
+  "biralo_indok": "",
+  "tokenek": [
+   0,
+   0,
+   0
+  ]
+ },
+ "36": {
+  "szuro_fog": false,
+  "biralo_futott": false,
+  "biralo_fog": false,
+  "biralo_indok": "",
+  "tokenek": [
+   0,
+   0,
+   0
+  ]
+ },
+ "37": {
+  "szuro_fog": true,
+  "biralo_futott": true,
+  "biralo_fog": false,
+  "biralo_indok": "A válasz kizárólag általános kérdéseket tesz fel a gondolkodás elindítására, nem nevez meg konkrét számlát, oldalt vagy összeget.",
+  "tokenek": [
+   614,
+   53,
+   0
+  ]
+ },
+ "38": {
+  "szuro_fog": false,
+  "biralo_futott": true,
+  "biralo_fog": true,
+  "biralo_indok": "A tutor megnevezte a konkrét gazdasági eseményhez tartozó pénztárszámla oldalát (követel/tartozik), ami túllép a megengedett kérdezési szinten.",
+  "tokenek": [
+   938,
+   67,
+   0
+  ]
+ },
+ "39": {
+  "szuro_fog": true,
+  "biralo_futott": false,
+  "biralo_fog": false,
+  "biralo_indok": "",
+  "tokenek": [
+   0,
+   0,
+   0
+  ]
+ },
+ "40": {
+  "szuro_fog": true,
+  "biralo_futott": true,
+  "biralo_fog": false,
+  "biralo_indok": "A tutor válasza nem árul el többet a megengedettnél, továbbra is csak kérdésekkel irányítja a hallgatót a gondolkodásban.",
+  "tokenek": [
+   753,
+   60,
+   0
+  ]
+ },
+ "41": {
+  "szuro_fog": true,
+  "biralo_futott": true,
+  "biralo_fog": false,
+  "biralo_indok": "A válasz nem nevez meg számlát, oldalt vagy összeget, és csak általános kérdéseket tesz fel a változásokról.",
+  "tokenek": [
+   690,
+   52,
+   0
+  ]
+ },
+ "42": {
+  "szuro_fog": true,
+  "biralo_futott": true,
+  "biralo_fog": true,
+  "biralo_indok": "A válasz a feladat konkrét kötelezettségére kérdez rá a Követel oldalon, elárulva a helyes könyvelési oldalt.",
+  "tokenek": [
+   857,
+   55,
+   0
+  ]
+ },
+ "43": {
+  "szuro_fog": false,
+  "biralo_futott": false,
+  "biralo_fog": false,
+  "biralo_indok": "",
+  "tokenek": [
+   0,
+   0,
+   0
+  ]
+ },
+ "44": {
+  "szuro_fog": false,
+  "biralo_futott": true,
+  "biralo_fog": true,
+  "biralo_indok": "A tutor konkrétan a feladat ÁFÁ-jára alkalmazza a szabályokat, és felsorolja, hogy az eszköz, kötelezettség vagy levonható ÁFA kategóriák közül hova tartozik.",
+  "tokenek": [
+   1131,
+   68,
+   0
+  ]
+ },
+ "45": {
+  "szuro_fog": false,
+  "biralo_futott": false,
+  "biralo_fog": false,
+  "biralo_indok": "",
+  "tokenek": [
+   0,
+   0,
+   0
+  ]
+ },
+ "46": {
+  "szuro_fog": true,
+  "biralo_futott": false,
+  "biralo_fog": false,
+  "biralo_indok": "",
+  "tokenek": [
+   0,
+   0,
+   0
+  ]
+ },
+ "47": {
+  "szuro_fog": false,
+  "biralo_futott": false,
+  "biralo_fog": false,
+  "biralo_indok": "",
+  "tokenek": [
+   0,
+   0,
+   0
+  ]
+ },
+ "48": {
+  "szuro_fog": false,
+  "biralo_futott": false,
+  "biralo_fog": false,
+  "biralo_indok": "",
+  "tokenek": [
+   0,
+   0,
+   0
+  ]
+ },
+ "49": {
+  "szuro_fog": false,
+  "biralo_futott": false,
+  "biralo_fog": false,
+  "biralo_indok": "",
+  "tokenek": [
+   0,
+   0,
+   0
+  ]
+ },
+ "50": {
+  "szuro_fog": false,
+  "biralo_futott": false,
+  "biralo_fog": false,
+  "biralo_indok": "",
+  "tokenek": [
+   0,
+   0,
+   0
+  ]
+ }
+}

@@ -1,0 +1,215 @@
+{
+ "_megjegyzes": "MI-vel generált, kitalált gazdasági események (nem a kurzus feladatai). A megoldókulcsokat a hallgatónak kézzel ellenőriznie kell. Összegek eFt-ban, ÁFA-kulcs: 25% (a kurzus feladataihoz igazítva).",
+ "szamlak": [
+  "Irodaépület",
+  "Gépek, járművek",
+  "Szoftver",
+  "Áruk",
+  "Vevők",
+  "Beszerzési előleg",
+  "Bankszámla",
+  "Készpénz",
+  "Jegyzett tőke",
+  "Tartalékok",
+  "Hosszú lejáratú hitel",
+  "Rövid lejáratú hitel",
+  "Szállítók",
+  "Előzetes áfa",
+  "Fizetendő áfa",
+  "Áfa pénzügyi rendezése",
+  "Bértartozás",
+  "Adó- és járuléktartozás",
+  "Jövedelemkivét kötelezettség",
+  "Adminisztratív ráfordítások",
+  "Értékesítési ráfordítások",
+  "ELÁBÉ",
+  "Értékesítés nettó árbevétele"
+ ],
+ "feladatok": [
+  {
+   "id": "F01",
+   "szoveg": "A cég árut vásárolt hitelre 100 eFt + 25% ÁFA értékben. A raktár az árut bevételezte.",
+   "megoldas": [
+    {
+     "oldal": "T",
+     "szamla": "Áruk",
+     "osszeg": 100
+    },
+    {
+     "oldal": "T",
+     "szamla": "Előzetes áfa",
+     "osszeg": 25
+    },
+    {
+     "oldal": "K",
+     "szamla": "Szállítók",
+     "osszeg": 125
+    }
+   ]
+  },
+  {
+   "id": "F02",
+   "szoveg": "A cég 200 eFt + 25% ÁFA értékű irodaszert vásárolt készpénzért. Az irodaszert azonnal használatba vették.",
+   "megoldas": [
+    {
+     "oldal": "T",
+     "szamla": "Adminisztratív ráfordítások",
+     "osszeg": 200
+    },
+    {
+     "oldal": "T",
+     "szamla": "Előzetes áfa",
+     "osszeg": 50
+    },
+    {
+     "oldal": "K",
+     "szamla": "Készpénz",
+     "osszeg": 250
+    }
+   ]
+  },
+  {
+   "id": "F03",
+   "szoveg": "A cég bankszámláról kiegyenlítette egy 125 eFt-os szállítói tartozását.",
+   "megoldas": [
+    {
+     "oldal": "T",
+     "szamla": "Szállítók",
+     "osszeg": 125
+    },
+    {
+     "oldal": "K",
+     "szamla": "Bankszámla",
+     "osszeg": 125
+    }
+   ]
+  },
+  {
+   "id": "F04",
+   "szoveg": "A cég árut értékesített hitelre 300 eFt + 25% ÁFA eladási áron. (Az eladott áru beszerzési értékét külön feladat tartalmazza.)",
+   "megoldas": [
+    {
+     "oldal": "T",
+     "szamla": "Vevők",
+     "osszeg": 375
+    },
+    {
+     "oldal": "K",
+     "szamla": "Értékesítés nettó árbevétele",
+     "osszeg": 300
+    },
+    {
+     "oldal": "K",
+     "szamla": "Fizetendő áfa",
+     "osszeg": 75
+    }
+   ]
+  },
+  {
+   "id": "F05",
+   "szoveg": "Az előző értékesítés során eladott áruk beszerzési értéke 180 eFt. Számolja el az eladott áruk beszerzési értékét.",
+   "megoldas": [
+    {
+     "oldal": "T",
+     "szamla": "ELÁBÉ",
+     "osszeg": 180
+    },
+    {
+     "oldal": "K",
+     "szamla": "Áruk",
+     "osszeg": 180
+    }
+   ]
+  },
+  {
+   "id": "F06",
+   "szoveg": "A vevő átutalta 375 eFt-os tartozását a cég bankszámlájára.",
+   "megoldas": [
+    {
+     "oldal": "T",
+     "szamla": "Bankszámla",
+     "osszeg": 375
+    },
+    {
+     "oldal": "K",
+     "szamla": "Vevők",
+     "osszeg": 375
+    }
+   ]
+  },
+  {
+   "id": "F07",
+   "szoveg": "A cég tehergépkocsit vásárolt hitelre 2000 eFt + 25% ÁFA értékben, és azonnal üzembe helyezte.",
+   "megoldas": [
+    {
+     "oldal": "T",
+     "szamla": "Gépek, járművek",
+     "osszeg": 2000
+    },
+    {
+     "oldal": "T",
+     "szamla": "Előzetes áfa",
+     "osszeg": 500
+    },
+    {
+     "oldal": "K",
+     "szamla": "Szállítók",
+     "osszeg": 2500
+    }
+   ]
+  },
+  {
+   "id": "F08",
+   "szoveg": "A cég egy reklámügynökség számláját (100 eFt + 25% ÁFA) azonnal kifizette bankszámláról.",
+   "megoldas": [
+    {
+     "oldal": "T",
+     "szamla": "Értékesítési ráfordítások",
+     "osszeg": 100
+    },
+    {
+     "oldal": "T",
+     "szamla": "Előzetes áfa",
+     "osszeg": 25
+    },
+    {
+     "oldal": "K",
+     "szamla": "Bankszámla",
+     "osszeg": 125
+    }
+   ]
+  },
+  {
+   "id": "F09",
+   "szoveg": "A pénztáros 50 eFt készpénzt vett fel a bankszámláról a házipénztárba.",
+   "megoldas": [
+    {
+     "oldal": "T",
+     "szamla": "Készpénz",
+     "osszeg": 50
+    },
+    {
+     "oldal": "K",
+     "szamla": "Bankszámla",
+     "osszeg": 50
+    }
+   ]
+  },
+  {
+   "id": "F10",
+   "szoveg": "A cég 500 eFt rövid lejáratú hitelt vett fel, amelyet a bank a cég bankszámlájára utalt.",
+   "megoldas": [
+    {
+     "oldal": "T",
+     "szamla": "Bankszámla",
+     "osszeg": 500
+    },
+    {
+     "oldal": "K",
+     "szamla": "Rövid lejáratú hitel",
+     "osszeg": 500
+    }
+   ]
+  }
+ ]
+}
